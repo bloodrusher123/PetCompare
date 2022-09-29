@@ -1,0 +1,102 @@
+Site,Species,Breed,Pet_DOB,Gender,Neutered,Purchase_Price
+Admiral,Dog,Beagle,21/09/2015,Male,Yes,0
+Admiral,Dog,Bichon Frise,01/11/2017,Female,Yes,600
+Admiral,Dog,Bulldog,08/11/2021,Male,No,800
+Admiral,Dog,Bulldog,01/07/2021,Male,No,4000
+Admiral,Dog,Bulldog,01/08/2020,Male,No,2500
+Admiral,Dog,Bulldog,01/02/2017,Male,Yes,1800
+Admiral,Dog,Cockerpoo,01/12/2019,Male,Yes,800
+Admiral,Dog,Dogue de Bordeaux,01/11/2017,Female,Yes,1000
+Admiral,Dog,Giant Schnauzer,19/01/2018,Female,Yes,900
+Admiral,Dog,Poodle (Toy),01/01/2021,Female,Yes,3500
+Admiral,Dog,Saluki,23/03/2020,Female,No,350
+Admiral,Dog,Shetland Sheepdog,01/07/2015,Female,No,700
+Admiral,Dog,Siberian Husky,01/10/2018,Female,Yes,300
+Admiral,Dog,Siberian Husky,10/09/2017,Male,Yes,300
+Admiral,Dog,Spaniel (Cocker),28/08/2021,Female,No,600
+Admiral,Dog,Spaniel (Cocker),01/06/2020,Male,No,1000
+Admiral,Dog,Spaniel (Cocker),01/06/2019,Male,No,400
+Admiral,Dog,A LARGE MONGREL (MORE THAN 20KG),02/10/2021,Female,No,400
+Admiral,Dog,A MEDIUM MONGREL (10 - 20KG),01/09/2021,Male,No,800
+Admiral,Dog,A MEDIUM MONGREL (10 - 20KG),11/06/2019,Male,No,150
+Admiral,Dog,Alsatian,01/09/2018,Female,No,150
+Admiral,Dog,Australian Shepherd Dog,01/01/2022,Female,No,1800
+Admiral,Dog,Basenji,23/11/2020,Male,Yes,1500
+Admiral,Dog,Beagle,01/10/2019,Female,Yes,1000
+Admiral,Dog,Beagle,15/09/2014,Male,Yes,150
+Admiral,Dog,Belgian Shepherd Dog (Malinois),01/12/2021,Male,No,1000
+Admiral,Dog,Bulldog,18/02/2020,Male,No,200
+Admiral,Dog,Bulldog,01/07/2018,Male,No,2000
+Admiral,Dog,Cavalier King Charles Spaniel,01/08/2021,Female,Yes,2000
+Admiral,Dog,Chow Chow,01/10/2016,Female,No,2000
+Admiral,Dog,Dobermann,25/01/2022,Male,No,1700
+Admiral,Dog,Dogue de Bordeaux,01/11/2021,Male,No,1500
+Admiral,Dog,Dogue de Bordeaux,01/11/2016,Female,Yes,800
+Admiral,Dog,French Bulldog,18/08/2021,Male,No,350
+Admiral,Dog,German Shorthaired Pointer,01/03/2021,Male,No,2500
+Admiral,Dog,German Wirehaired Pointer,01/10/2018,Male,Yes,500
+Admiral,Dog,Irish Setter,26/12/2021,Male,No,1300
+Admiral,Dog,Irish Terrier,01/10/2020,Male,No,2000
+Admiral,Dog,Jack Russell,01/11/2017,Male,Yes,475
+Admiral,Dog,Japanese Shiba Inu,01/05/2014,Female,Yes,380
+Admiral,Dog,Parson Jack Russell Terrier,01/12/2014,Male,No,180
+Admiral,Dog,Retriever (Labrador),01/04/2021,Female,Yes,250
+Admiral,Dog,Rhodesian Ridgeback,01/12/2018,Female,Yes,1500
+Admiral,Dog,Spaniel (Cocker),01/08/2020,Male,Yes,2250
+Admiral,Dog,Spaniel (Cocker),01/10/2016,Female,No,1600
+Admiral,Dog,Spaniel (Cocker),01/11/2015,Male,No,1200
+Admiral,Dog,Spaniel (English Springer),01/01/2020,Male,Yes,100
+Admiral,Dog,Staffordshire Bull Terrier,01/01/2021,Female,No,1300
+Admiral,Dog,Tibetan Terrier,29/11/2020,Male,No,1500
+Admiral,Dog,Whippet,01/10/2020,Female,Yes,1000
+Admiral,Dog,Whippet,01/07/2020,Male,Yes,500
+Admiral,Dog,A MEDIUM MONGREL (10 - 20KG),23/01/2022,Male,No,1300
+Admiral,Dog,A MEDIUM MONGREL (10 - 20KG),01/11/2020,Male,Yes,250
+Admiral,Dog,A MEDIUM MONGREL (10 - 20KG),05/02/2019,Female,Yes,255
+Admiral,Dog,Alsatian,01/04/2020,Male,No,1000
+Admiral,Dog,Alsatian,24/03/2020,Female,No,800
+Admiral,Dog,Australian Terrier,11/09/2019,Male,No,230
+Admiral,Dog,Beagle,01/02/2019,Male,Yes,550
+Admiral,Dog,Beagle,01/10/2016,Male,Yes,799
+Admiral,Dog,Bernese Mountain Dog,13/10/2018,Female,Yes,1850
+Admiral,Dog,Bernese Mountain Dog,01/01/2017,Female,Yes,2000
+Admiral,Dog,Border Collie,01/10/2020,Male,No,600
+Admiral,Dog,Border Terrier,01/02/2021,Male,Yes,3000
+Admiral,Dog,Boston Terrier,01/09/2021,Female,No,2000
+Admiral,Dog,Boston Terrier,01/07/2021,Male,Yes,1500
+Admiral,Dog,Boxer,01/02/2021,Female,No,1800
+Admiral,Dog,Bull Terrier,20/12/2015,Male,Yes,0
+Admiral,Dog,Cavalier King Charles Spaniel,01/11/2018,Male,No,0
+Admiral,Dog,Chihuahua (Long Coated),15/08/2021,Male,No,400
+Admiral,Dog,Chow Chow,01/05/2021,Male,Yes,200
+Admiral,Dog,German Shorthaired Pointer,01/03/2016,Female,Yes,550
+Admiral,Dog,Hungarian Wirehaired Vizsla,01/01/2019,Female,No,1200
+Admiral,Dog,Hungarian Wirehaired Vizsla,01/08/2015,Female,Yes,1200
+Admiral,Dog,Jack Russell,15/09/2021,Male,No,400
+Admiral,Dog,Labrador,31/12/2016,Male,Yes,450
+Admiral,Dog,Miniature Pinscher,01/04/2015,Male,No,0
+Admiral,Dog,Old English Sheepdog,01/04/2017,Male,Yes,2000
+Admiral,Dog,Pug,01/11/2021,Female,Yes,1200
+Admiral,Dog,Retriever (Golden),01/01/2019,Female,Yes,2250
+Admiral,Dog,Retriever (Labrador),01/09/2020,Female,Yes,2000
+Admiral,Dog,Retriever (Labrador),01/04/2019,Female,No,150
+Admiral,Dog,Rhodesian Ridgeback,01/03/2016,Male,No,900
+Admiral,Dog,Samoyed,01/09/2021,Male,No,250
+Admiral,Dog,Schnauzer,01/11/2014,Female,Yes,1500
+Admiral,Dog,Siberian Husky,01/03/2017,Male,Yes,100
+Admiral,Dog,Soft Coated Wheaten Terrier,01/02/2021,Male,Yes,2500
+Admiral,Dog,Spaniel (Cocker),01/12/2021,Female,No,700
+Admiral,Dog,Spaniel (Cocker),01/07/2021,Female,No,1500
+Admiral,Dog,Spaniel (Cocker),01/09/2020,Female,No,1000
+Admiral,Dog,Spaniel (Cocker),01/09/2016,Male,No,800
+Admiral,Dog,Spaniel (Cocker),01/01/2016,Female,No,350
+Admiral,Dog,Spaniel (English Springer),01/07/2020,Male,No,1200
+Admiral,Dog,Staffordshire Bull Terrier,01/01/2019,Male,Yes,700
+Admiral,Dog,West Highland White Terrier,20/06/2017,Female,Yes,50
+Admiral,Dog,Whippet,01/10/2016,Male,No,409
+Admiral,Dog,Whippet,01/10/2015,Male,No,400
+Admiral,Dog,Yorkshire Terrier,01/01/2022,Male,No,850
+Admiral,Dog,A MEDIUM MONGREL (10 - 20KG),01/01/2020,Male,Yes,650
+Admiral,Dog,American Water Spaniel,07/10/2020,Male,No,260
+Admiral,Dog,Border Collie,01/01/2021,Female,No,1000
+Admiral,Dog,Cavalier King Charles Spaniel,01/05/2020,Female,Yes,2700

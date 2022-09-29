@@ -1,0 +1,472 @@
+Site,Pet,Breed,Age,Gender,Neutered,Purchase Price,Monthly,Yearly,Vet Excess,Annual Condition Limit
+Petplan,Dog,Jack Russell Terrier,4,Male,Yes,Covered For Life - £4000 or more,£22.81,£273.72 ,£110,4000
+Petplan,Dog,Jack Russell Terrier,4,Male,Yes,Covered For Life - £4000 or more,£29.59,£355.08 ,£110,7000
+Petplan,Dog,Jack Russell Terrier,4,Male,Yes,Covered For Life - £4000 or more,£50.03,£600.36 ,£110,12000
+Petplan,Dog,Small Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£22.81,£273.72 ,£110,4000
+Petplan,Dog,Small Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£29.59,£355.08 ,£110,7000
+Petplan,Dog,Small Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£50.03,£600.36 ,£110,12000
+Petplan,Dog,Shih Tzu,4,Male,Yes,Covered For Life - £4000 or more,£28.74,£344.88 ,£110,4000
+Petplan,Dog,Shih Tzu,4,Male,Yes,Covered For Life - £4000 or more,£37.29,£447.48 ,£110,7000
+Petplan,Dog,Shih Tzu,4,Male,Yes,Covered For Life - £4000 or more,£50.85,£610.20 ,£110,12000
+Petplan,Dog,Yorkshire Terrier,4,Male,Yes,Covered For Life - £4000 or more,£28.74,£344.88 ,£110,4000
+Petplan,Dog,Yorkshire Terrier,4,Male,Yes,Covered For Life - £4000 or more,£37.29,£447.48 ,£110,7000
+Petplan,Dog,Yorkshire Terrier,4,Male,Yes,Covered For Life - £4000 or more,£50.85,£610.20 ,£110,12000
+Petplan,Dog,Cocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£32.11,£385.32 ,£110,4000
+Petplan,Dog,Cocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£41.67,£500.04 ,£110,7000
+Petplan,Dog,Cocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£56.81,£681.72 ,£110,12000
+Petplan,Dog,Cockapoo,4,Male,Yes,Covered For Life - £4000 or more,£32.11,£385.32 ,£110,4000
+Petplan,Dog,Cockapoo,4,Male,Yes,Covered For Life - £4000 or more,£41.67,£500.04 ,£110,7000
+Petplan,Dog,Cockapoo,4,Male,Yes,Covered For Life - £4000 or more,£56.81,£681.72 ,£110,12000
+Petplan,Dog,Sprocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£33.32,£399.84 ,£110,4000
+Petplan,Dog,Sprocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£43.23,£518.76 ,£110,7000
+Petplan,Dog,Sprocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£58.94,£707.28 ,£110,12000
+Petplan,Dog,Chorkie,4,Male,Yes,Covered For Life - £4000 or more,£30.54,£366.48 ,£110,4000
+Petplan,Dog,Chorkie,4,Male,Yes,Covered For Life - £4000 or more,£39.62,£475.44 ,£110,7000
+Petplan,Dog,Chorkie,4,Male,Yes,Covered For Life - £4000 or more,£54.03,£648.36 ,£110,12000
+Petplan,Dog,Border Terrier,4,Male,Yes,Covered For Life - £4000 or more,£30.63,£367.56 ,£110,4000
+Petplan,Dog,Border Terrier,4,Male,Yes,Covered For Life - £4000 or more,£39.75,£477.00 ,£110,7000
+Petplan,Dog,Border Terrier,4,Male,Yes,Covered For Life - £4000 or more,£54.63,£655.56 ,£110,12000
+Petplan,Dog,Cairn Terrier,4,Male,Yes,Covered For Life - £4000 or more,£31.13,£373.56 ,£110,4000
+Petplan,Dog,Cairn Terrier,4,Male,Yes,Covered For Life - £4000 or more,£40.39,£484.68 ,£110,7000
+Petplan,Dog,Cairn Terrier,4,Male,Yes,Covered For Life - £4000 or more,£54.63,£655.56 ,£110,12000
+Petplan,Dog,Chihuahua,4,Male,Yes,Covered For Life - £4000 or more,£31.19,£374.28 ,£110,4000
+Petplan,Dog,Chihuahua,4,Male,Yes,Covered For Life - £4000 or more,£40.47,£485.64 ,£110,7000
+Petplan,Dog,Chihuahua,4,Male,Yes,Covered For Life - £4000 or more,£55.18,£662.16 ,£110,12000
+Petplan,Dog,Toy Poodle,4,Male,Yes,Covered For Life - £4000 or more,£31.19,£374.28 ,£110,4000
+Petplan,Dog,Toy Poodle,4,Male,Yes,Covered For Life - £4000 or more,£40.47,£485.64 ,£110,7000
+Petplan,Dog,Toy Poodle,4,Male,Yes,Covered For Life - £4000 or more,£55.18,£662.16 ,£110,12000
+Petplan,Dog,Shichon,4,Male,Yes,Covered For Life - £4000 or more,£31.65,£379.80 ,£110,4000
+Petplan,Dog,Shichon,4,Male,Yes,Covered For Life - £4000 or more,£41.07,£492.84 ,£110,7000
+Petplan,Dog,Shichon,4,Male,Yes,Covered For Life - £4000 or more,£55.55,£666.60 ,£110,12000
+Petplan,Dog,Parson Russell Terrier,4,Male,Yes,Covered For Life - £4000 or more,£25.66,£307.92 ,£110,4000
+Petplan,Dog,Parson Russell Terrier,4,Male,Yes,Covered For Life - £4000 or more,£33.29,£399.48 ,£110,7000
+Petplan,Dog,Parson Russell Terrier,4,Male,Yes,Covered For Life - £4000 or more,£56.27,£675.24 ,£110,12000
+Petplan,Dog,Ratonero Bodeguero Andaluz,4,Male,Yes,Covered For Life - £4000 or more,£25.66,£307.92 ,£110,4000
+Petplan,Dog,Ratonero Bodeguero Andaluz,4,Male,Yes,Covered For Life - £4000 or more,£33.29,£399.48 ,£110,7000
+Petplan,Dog,Ratonero Bodeguero Andaluz,4,Male,Yes,Covered For Life - £4000 or more,£56.27,£675.24 ,£110,12000
+Petplan,Dog,Schnauzer,4,Male,Yes,Covered For Life - £4000 or more,£35.23,£422.76 ,£110,4000
+Petplan,Dog,Schnauzer,4,Male,Yes,Covered For Life - £4000 or more,£45.72,£548.64 ,£110,7000
+Petplan,Dog,Schnauzer,4,Male,Yes,Covered For Life - £4000 or more,£56.68,£680.16 ,£110,12000
+Petplan,Dog,Miniature Poodle,4,Male,Yes,Covered For Life - £4000 or more,£32.41,£388.92 ,£110,4000
+Petplan,Dog,Miniature Poodle,4,Male,Yes,Covered For Life - £4000 or more,£42.06,£504.72 ,£110,7000
+Petplan,Dog,Miniature Poodle,4,Male,Yes,Covered For Life - £4000 or more,£56.89,£682.68 ,£110,12000
+Petplan,Dog,Pomeranian,4,Male,Yes,Covered For Life - £4000 or more,£32.36,£388.32 ,£110,4000
+Petplan,Dog,Pomeranian,4,Male,Yes,Covered For Life - £4000 or more,£41.99,£503.88 ,£110,7000
+Petplan,Dog,Pomeranian,4,Male,Yes,Covered For Life - £4000 or more,£57.24,£686.88 ,£110,12000
+Petplan,Dog,Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£32.19,£386.28 ,£110,4000
+Petplan,Dog,Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£41.77,£501.24 ,£110,7000
+Petplan,Dog,Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£57.18,£686.16 ,£110,12000
+Petplan,Dog,English Springer Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£36.13,£433.56 ,£110,4000
+Petplan,Dog,English Springer Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£46.88,£562.56 ,£110,7000
+Petplan,Dog,English Springer Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£63.91,£766.92 ,£110,12000
+Petplan,Dog,Welsh Springer Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£36.13,£433.56 ,£110,4000
+Petplan,Dog,Welsh Springer Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£46.88,£562.56 ,£110,7000
+Petplan,Dog,Welsh Springer Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£63.91,£766.92 ,£110,12000
+Petplan,Dog,Sussex Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£33.12,£397.44 ,£110,4000
+Petplan,Dog,Sussex Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£42.97,£515.64 ,£110,7000
+Petplan,Dog,Sussex Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£58.36,£700.32 ,£110,12000
+Petplan,Dog,Wauzer,4,Male,Yes,Covered For Life - £4000 or more,£33.12,£397.44 ,£110,4000
+Petplan,Dog,Wauzer,4,Male,Yes,Covered For Life - £4000 or more,£42.97,£515.64 ,£110,7000
+Petplan,Dog,Wauzer,4,Male,Yes,Covered For Life - £4000 or more,£58.36,£700.32 ,£110,12000
+Petplan,Dog,Cavachon,4,Male,Yes,Covered For Life - £4000 or more,£36.84,£442.08 ,£110,4000
+Petplan,Dog,Cavachon,4,Male,Yes,Covered For Life - £4000 or more,£47.81,£573.72 ,£110,7000
+Petplan,Dog,Cavachon,4,Male,Yes,Covered For Life - £4000 or more,£64.64,£775.68 ,£110,12000
+Petplan,Dog,Cavapoo,4,Male,Yes,Covered For Life - £4000 or more,£36.84,£442.08 ,£110,4000
+Petplan,Dog,Cavapoo,4,Male,Yes,Covered For Life - £4000 or more,£47.81,£573.72 ,£110,7000
+Petplan,Dog,Cavapoo,4,Male,Yes,Covered For Life - £4000 or more,£64.64,£775.68 ,£110,12000
+Petplan,Dog,Whippet,4,Male,Yes,Covered For Life - £4000 or more,£34.89,£418.68 ,£110,4000
+Petplan,Dog,Whippet,4,Male,Yes,Covered For Life - £4000 or more,£45.28,£543.36 ,£110,7000
+Petplan,Dog,Whippet,4,Male,Yes,Covered For Life - £4000 or more,£59.11,£709.32 ,£110,12000
+Petplan,Dog,Poodle,4,Male,Yes,Covered For Life - £4000 or more,£34.09,£409.08 ,£110,4000
+Petplan,Dog,Poodle,4,Male,Yes,Covered For Life - £4000 or more,£44.24,£530.88 ,£110,7000
+Petplan,Dog,Poodle,4,Male,Yes,Covered For Life - £4000 or more,£60.08,£720.96 ,£110,12000
+Petplan,Dog,Bichon Frise,4,Male,Yes,Covered For Life - £4000 or more,£34.32,£411.84 ,£110,4000
+Petplan,Dog,Bichon Frise,4,Male,Yes,Covered For Life - £4000 or more,£44.54,£534.48 ,£110,7000
+Petplan,Dog,Bichon Frise,4,Male,Yes,Covered For Life - £4000 or more,£60.23,£722.76 ,£110,12000
+Petplan,Dog,West Highland White Terrier,4,Male,Yes,Covered For Life - £4000 or more,£34.32,£411.84 ,£110,4000
+Petplan,Dog,West Highland White Terrier,4,Male,Yes,Covered For Life - £4000 or more,£44.54,£534.48 ,£110,7000
+Petplan,Dog,West Highland White Terrier,4,Male,Yes,Covered For Life - £4000 or more,£60.23,£722.76 ,£110,12000
+Petplan,Dog,Miniature Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£34.08,£408.96 ,£110,4000
+Petplan,Dog,Miniature Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£44.23,£530.76 ,£110,7000
+Petplan,Dog,Miniature Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£60.54,£726.48 ,£110,12000
+Petplan,Dog,Wirehaired Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£34.08,£408.96 ,£110,4000
+Petplan,Dog,Wirehaired Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£44.23,£530.76 ,£110,7000
+Petplan,Dog,Wirehaired Dachshund,4,Male,Yes,Covered For Life - £4000 or more,£60.54,£726.48 ,£110,12000
+Petplan,Dog,Tibetan Terrier,4,Male,Yes,Covered For Life - £4000 or more,£35.02,£420.24 ,£110,4000
+Petplan,Dog,Tibetan Terrier,4,Male,Yes,Covered For Life - £4000 or more,£45.44,£545.28 ,£110,7000
+Petplan,Dog,Tibetan Terrier,4,Male,Yes,Covered For Life - £4000 or more,£61.46,£737.52 ,£110,12000
+Petplan,Dog,Lurcher,4,Male,Yes,Covered For Life - £4000 or more,£36.42,£437.04 ,£110,4000
+Petplan,Dog,Lurcher,4,Male,Yes,Covered For Life - £4000 or more,£47.26,£567.12 ,£110,7000
+Petplan,Dog,Lurcher,4,Male,Yes,Covered For Life - £4000 or more,£61.46,£737.52 ,£110,12000
+Petplan,Dog,Miniature Pinscher,4,Male,Yes,Covered For Life - £4000 or more,£35.09,£421.08 ,£110,4000
+Petplan,Dog,Miniature Pinscher,4,Male,Yes,Covered For Life - £4000 or more,£45.53,£546.36 ,£110,7000
+Petplan,Dog,Miniature Pinscher,4,Male,Yes,Covered For Life - £4000 or more,£62.07,£744.84 ,£110,12000
+Petplan,Dog,Papillon,4,Male,Yes,Covered For Life - £4000 or more,£35.09,£421.08 ,£110,4000
+Petplan,Dog,Papillon,4,Male,Yes,Covered For Life - £4000 or more,£45.53,£546.36 ,£110,7000
+Petplan,Dog,Papillon,4,Male,Yes,Covered For Life - £4000 or more,£62.07,£744.84 ,£110,12000
+Petplan,Dog,Husky,4,Male,Yes,Covered For Life - £4000 or more,£37.91,£454.92 ,£110,4000
+Petplan,Dog,Husky,4,Male,Yes,Covered For Life - £4000 or more,£49.19,£590.28 ,£110,7000
+Petplan,Dog,Husky,4,Male,Yes,Covered For Life - £4000 or more,£62.33,£747.96 ,£110,12000
+Petplan,Dog,Jack-A-Poo,4,Male,Yes,Covered For Life - £4000 or more,£35.37,£424.44 ,£110,4000
+Petplan,Dog,Jack-A-Poo,4,Male,Yes,Covered For Life - £4000 or more,£45.90,£550.80 ,£110,7000
+Petplan,Dog,Jack-A-Poo,4,Male,Yes,Covered For Life - £4000 or more,£62.33,£747.96 ,£110,12000
+Petplan,Dog,Maltese,4,Male,Yes,Covered For Life - £4000 or more,£39.15,£469.80 ,£110,4000
+Petplan,Dog,Maltese,4,Male,Yes,Covered For Life - £4000 or more,£50.80,£609.60 ,£110,7000
+Petplan,Dog,Maltese,4,Male,Yes,Covered For Life - £4000 or more,£68.68,£824.16 ,£110,12000
+Petplan,Dog,Italian Greyhound,4,Male,Yes,Covered For Life - £4000 or more,£36.95,£443.40 ,£110,4000
+Petplan,Dog,Italian Greyhound,4,Male,Yes,Covered For Life - £4000 or more,£47.94,£575.28 ,£110,7000
+Petplan,Dog,Italian Greyhound,4,Male,Yes,Covered For Life - £4000 or more,£62.59,£751.08 ,£110,12000
+Petplan,Dog,Saluki,4,Male,Yes,Covered For Life - £4000 or more,£36.95,£443.40 ,£110,4000
+Petplan,Dog,Saluki,4,Male,Yes,Covered For Life - £4000 or more,£47.94,£575.28 ,£110,7000
+Petplan,Dog,Saluki,4,Male,Yes,Covered For Life - £4000 or more,£62.59,£751.08 ,£110,12000
+Petplan,Dog,Golden Retriever,4,Male,Yes,Covered For Life - £4000 or more,£39.67,£476.04 ,£110,4000
+Petplan,Dog,Golden Retriever,4,Male,Yes,Covered For Life - £4000 or more,£51.48,£617.76 ,£110,7000
+Petplan,Dog,Golden Retriever,4,Male,Yes,Covered For Life - £4000 or more,£62.99,£755.88 ,£110,12000
+Petplan,Dog,Lancashire Heeler,4,Male,Yes,Covered For Life - £4000 or more,£35.32,£423.84 ,£110,4000
+Petplan,Dog,Lancashire Heeler,4,Male,Yes,Covered For Life - £4000 or more,£45.83,£549.96 ,£110,7000
+Petplan,Dog,Lancashire Heeler,4,Male,Yes,Covered For Life - £4000 or more,£62.99,£755.88 ,£110,12000
+Petplan,Dog,Siberian Husky,4,Male,Yes,Covered For Life - £4000 or more,£38.82,£465.84 ,£110,4000
+Petplan,Dog,Siberian Husky,4,Male,Yes,Covered For Life - £4000 or more,£50.38,£604.56 ,£110,7000
+Petplan,Dog,Siberian Husky,4,Male,Yes,Covered For Life - £4000 or more,£63.83,£765.96 ,£110,12000
+Petplan,Dog,Border Collie,4,Male,Yes,Covered For Life - £4000 or more,£32.33,£387.96 ,£110,4000
+Petplan,Dog,Border Collie,4,Male,Yes,Covered For Life - £4000 or more,£41.96,£503.52 ,£110,7000
+Petplan,Dog,Border Collie,4,Male,Yes,Covered For Life - £4000 or more,£70.88,£850.56 ,£110,12000
+Petplan,Dog,Shetland Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£37.06,£444.72 ,£110,4000
+Petplan,Dog,Shetland Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£48.09,£577.08 ,£110,7000
+Petplan,Dog,Shetland Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£64.52,£774.24 ,£110,12000
+Petplan,Dog,Bearded Collie,4,Male,Yes,Covered For Life - £4000 or more,£37.06,£444.72 ,£110,4000
+Petplan,Dog,Bearded Collie,4,Male,Yes,Covered For Life - £4000 or more,£48.09,£577.08 ,£110,7000
+Petplan,Dog,Bearded Collie,4,Male,Yes,Covered For Life - £4000 or more,£64.52,£774.24 ,£110,12000
+Petplan,Dog,Pug,4,Male,Yes,Covered For Life - £4000 or more,£41.45,£497.40 ,£110,4000
+Petplan,Dog,Pug,4,Male,Yes,Covered For Life - £4000 or more,£53.79,£645.48 ,£110,7000
+Petplan,Dog,Pug,4,Male,Yes,Covered For Life - £4000 or more,£72.72,£872.64 ,£110,12000
+Petplan,Dog,Cavalier King Charles Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£41.45,£497.40 ,£110,4000
+Petplan,Dog,Cavalier King Charles Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£53.79,£645.48 ,£110,7000
+Petplan,Dog,Cavalier King Charles Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£72.72,£872.64 ,£110,12000
+Petplan,Dog,Alaskan Malamute,4,Male,Yes,Covered For Life - £4000 or more,£41.10,£493.20 ,£110,4000
+Petplan,Dog,Alaskan Malamute,4,Male,Yes,Covered For Life - £4000 or more,£53.34,£640.08 ,£110,7000
+Petplan,Dog,Alaskan Malamute,4,Male,Yes,Covered For Life - £4000 or more,£67.58,£810.96 ,£110,12000
+Petplan,Dog,Dalmatian,4,Male,Yes,Covered For Life - £4000 or more,£38.35,£460.20 ,£110,4000
+Petplan,Dog,Dalmatian,4,Male,Yes,Covered For Life - £4000 or more,£49.77,£597.24 ,£110,7000
+Petplan,Dog,Dalmatian,4,Male,Yes,Covered For Life - £4000 or more,£67.58,£810.96 ,£110,12000
+Petplan,Dog,Staffordshire Bull Terrier,4,Male,Yes,Covered For Life - £4000 or more,£38.80,£465.60 ,£110,4000
+Petplan,Dog,Staffordshire Bull Terrier,4,Male,Yes,Covered For Life - £4000 or more,£50.34,£604.08 ,£110,7000
+Petplan,Dog,Staffordshire Bull Terrier,4,Male,Yes,Covered For Life - £4000 or more,£68.07,£816.84 ,£110,12000
+Petplan,Dog,Storkie,4,Male,Yes,Covered For Life - £4000 or more,£38.80,£465.60 ,£110,4000
+Petplan,Dog,Storkie,4,Male,Yes,Covered For Life - £4000 or more,£50.34,£604.08 ,£110,7000
+Petplan,Dog,Storkie,4,Male,Yes,Covered For Life - £4000 or more,£68.07,£816.84 ,£110,12000
+Petplan,Dog,Labradoodle,4,Male,Yes,Covered For Life - £4000 or more,£31.18,£374.16 ,£110,4000
+Petplan,Dog,Labradoodle,4,Male,Yes,Covered For Life - £4000 or more,£40.46,£485.52 ,£110,7000
+Petplan,Dog,Labradoodle,4,Male,Yes,Covered For Life - £4000 or more,£68.37,£820.44 ,£110,12000
+Petplan,Dog,Japanese Shiba Inu,4,Male,Yes,Covered For Life - £4000 or more,£31.18,£374.16 ,£110,4000
+Petplan,Dog,Japanese Shiba Inu,4,Male,Yes,Covered For Life - £4000 or more,£40.46,£485.52 ,£110,7000
+Petplan,Dog,Japanese Shiba Inu,4,Male,Yes,Covered For Life - £4000 or more,£68.37,£820.44 ,£110,12000
+Petplan,Dog,Korthals Griffon,4,Male,Yes,Covered For Life - £4000 or more,£40.41,£484.92 ,£110,4000
+Petplan,Dog,Korthals Griffon,4,Male,Yes,Covered For Life - £4000 or more,£52.44,£629.28 ,£110,7000
+Petplan,Dog,Korthals Griffon,4,Male,Yes,Covered For Life - £4000 or more,£71.68,£860.16 ,£110,12000
+Petplan,Dog,Beagle,4,Male,Yes,Covered For Life - £4000 or more,£36.37,£436.44 ,£110,4000
+Petplan,Dog,Beagle,4,Male,Yes,Covered For Life - £4000 or more,£47.20,£566.40 ,£110,7000
+Petplan,Dog,Beagle,4,Male,Yes,Covered For Life - £4000 or more,£79.73,£956.76 ,£110,12000
+Petplan,Dog,Rough Collie,4,Male,Yes,Covered For Life - £4000 or more,£36.37,£436.44 ,£110,4000
+Petplan,Dog,Rough Collie,4,Male,Yes,Covered For Life - £4000 or more,£47.20,£566.40 ,£110,7000
+Petplan,Dog,Rough Collie,4,Male,Yes,Covered For Life - £4000 or more,£79.73,£956.76 ,£110,12000
+Petplan,Dog,Boston Terrier,4,Male,Yes,Covered For Life - £4000 or more,£45.63,£547.56 ,£110,4000
+Petplan,Dog,Boston Terrier,4,Male,Yes,Covered For Life - £4000 or more,£59.22,£710.64 ,£110,7000
+Petplan,Dog,Boston Terrier,4,Male,Yes,Covered For Life - £4000 or more,£75.54,£906.48 ,£110,12000
+Petplan,Dog,Airedale Terrier,4,Male,Yes,Covered For Life - £4000 or more,£45.63,£547.56 ,£110,4000
+Petplan,Dog,Airedale Terrier,4,Male,Yes,Covered For Life - £4000 or more,£59.22,£710.64 ,£110,7000
+Petplan,Dog,Airedale Terrier,4,Male,Yes,Covered For Life - £4000 or more,£75.54,£906.48 ,£110,12000
+Petplan,Dog,Old English Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£48.54,£582.48 ,£110,4000
+Petplan,Dog,Old English Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£62.99,£755.88 ,£110,7000
+Petplan,Dog,Old English Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£78.54,£942.48 ,£110,12000
+Petplan,Dog,Samoyed,4,Male,Yes,Covered For Life - £4000 or more,£48.54,£582.48 ,£110,4000
+Petplan,Dog,Samoyed,4,Male,Yes,Covered For Life - £4000 or more,£62.99,£755.88 ,£110,7000
+Petplan,Dog,Samoyed,4,Male,Yes,Covered For Life - £4000 or more,£78.54,£942.48 ,£110,12000
+Petplan,Dog,Greyhound,4,Male,Yes,Covered For Life - £4000 or more,£49.40,£592.80 ,£110,4000
+Petplan,Dog,Greyhound,4,Male,Yes,Covered For Life - £4000 or more,£64.10,£769.20 ,£110,7000
+Petplan,Dog,Greyhound,4,Male,Yes,Covered For Life - £4000 or more,£81.24,£974.88 ,£110,12000
+Petplan,Dog,Portuguese Podengo,4,Male,Yes,Covered For Life - £4000 or more,£49.40,£592.80 ,£110,4000
+Petplan,Dog,Portuguese Podengo,4,Male,Yes,Covered For Life - £4000 or more,£64.10,£769.20 ,£110,7000
+Petplan,Dog,Portuguese Podengo,4,Male,Yes,Covered For Life - £4000 or more,£81.24,£974.88 ,£110,12000
+Petplan,Dog,German Shorthaired Pointer,4,Male,Yes,Covered For Life - £4000 or more,£50.18,£602.16 ,£110,4000
+Petplan,Dog,German Shorthaired Pointer,4,Male,Yes,Covered For Life - £4000 or more,£65.12,£781.44 ,£110,7000
+Petplan,Dog,German Shorthaired Pointer,4,Male,Yes,Covered For Life - £4000 or more,£81.35,£976.20 ,£110,12000
+Petplan,Dog,English Pointer,4,Male,Yes,Covered For Life - £4000 or more,£50.18,£602.16 ,£110,4000
+Petplan,Dog,English Pointer,4,Male,Yes,Covered For Life - £4000 or more,£65.12,£781.44 ,£110,7000
+Petplan,Dog,English Pointer,4,Male,Yes,Covered For Life - £4000 or more,£81.35,£976.20 ,£110,12000
+Petplan,Dog,Flat Coated Retriever,4,Male,Yes,Covered For Life - £4000 or more,£49.12,£589.44 ,£110,4000
+Petplan,Dog,Flat Coated Retriever,4,Male,Yes,Covered For Life - £4000 or more,£63.75,£765.00 ,£110,7000
+Petplan,Dog,Flat Coated Retriever,4,Male,Yes,Covered For Life - £4000 or more,£81.56,£978.72 ,£110,12000
+Petplan,Dog,Irish Setter,4,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Irish Setter,4,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Irish Setter,4,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Lowchen (Little Lion Dog),4,Male,Yes,Covered For Life - £4000 or more,£54.14,£649.68 ,£110,4000
+Petplan,Dog,Lowchen (Little Lion Dog),4,Male,Yes,Covered For Life - £4000 or more,£70.27,£843.24 ,£110,7000
+Petplan,Dog,Lowchen (Little Lion Dog),4,Male,Yes,Covered For Life - £4000 or more,£88.96,£1067.52 ,£110,12000
+Petplan,Dog,Japanese Chin,4,Male,Yes,Covered For Life - £4000 or more,£54.14,£649.68 ,£110,4000
+Petplan,Dog,Japanese Chin,4,Male,Yes,Covered For Life - £4000 or more,£70.27,£843.24 ,£110,7000
+Petplan,Dog,Japanese Chin,4,Male,Yes,Covered For Life - £4000 or more,£88.96,£1067.52 ,£110,12000
+Petplan,Dog,Weimaraner,4,Male,Yes,Covered For Life - £4000 or more,£54.88,£658.56 ,£110,4000
+Petplan,Dog,Weimaraner,4,Male,Yes,Covered For Life - £4000 or more,£71.22,£854.64 ,£110,7000
+Petplan,Dog,Weimaraner,4,Male,Yes,Covered For Life - £4000 or more,£90.24,£1082.88 ,£110,12000
+Petplan,Dog,Portugese Water Dog,4,Male,Yes,Covered For Life - £4000 or more,£54.88,£658.56 ,£110,4000
+Petplan,Dog,Portugese Water Dog,4,Male,Yes,Covered For Life - £4000 or more,£71.22,£854.64 ,£110,7000
+Petplan,Dog,Portugese Water Dog,4,Male,Yes,Covered For Life - £4000 or more,£90.24,£1082.88 ,£110,12000
+Petplan,Dog,Hungarian Vizsla,4,Male,Yes,Covered For Life - £4000 or more,£57.48,£689.76 ,£110,4000
+Petplan,Dog,Hungarian Vizsla,4,Male,Yes,Covered For Life - £4000 or more,£74.60,£895.20 ,£110,7000
+Petplan,Dog,Hungarian Vizsla,4,Male,Yes,Covered For Life - £4000 or more,£94.51,£1134.12 ,£110,12000
+Petplan,Dog,Gordon Setter,4,Male,Yes,Covered For Life - £4000 or more,£60.32,£723.84 ,£110,4000
+Petplan,Dog,Gordon Setter,4,Male,Yes,Covered For Life - £4000 or more,£78.28,£939.36 ,£110,7000
+Petplan,Dog,Gordon Setter,4,Male,Yes,Covered For Life - £4000 or more,£95.76,£1149.12 ,£110,12000
+Petplan,Dog,Bouvier Des Flandres,4,Male,Yes,Covered For Life - £4000 or more,£60.32,£723.84 ,£110,4000
+Petplan,Dog,Bouvier Des Flandres,4,Male,Yes,Covered For Life - £4000 or more,£78.28,£939.36 ,£110,7000
+Petplan,Dog,Bouvier Des Flandres,4,Male,Yes,Covered For Life - £4000 or more,£95.76,£1149.12 ,£110,12000
+Petplan,Dog,Hungarian Wirehaired Vizsla,4,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Hungarian Wirehaired Vizsla,4,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Hungarian Wirehaired Vizsla,4,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Akita,4,Male,Yes,Covered For Life - £4000 or more,£64.67,£776.04 ,£110,4000
+Petplan,Dog,Akita,4,Male,Yes,Covered For Life - £4000 or more,£83.93,£1007.16 ,£110,7000
+Petplan,Dog,Akita,4,Male,Yes,Covered For Life - £4000 or more,£106.32,£1275.84 ,£110,12000
+Petplan,Dog,Rhodesian Ridgeback,4,Male,Yes,Covered For Life - £4000 or more,£64.67,£776.04 ,£110,4000
+Petplan,Dog,Rhodesian Ridgeback,4,Male,Yes,Covered For Life - £4000 or more,£83.93,£1007.16 ,£110,7000
+Petplan,Dog,Rhodesian Ridgeback,4,Male,Yes,Covered For Life - £4000 or more,£106.32,£1275.84 ,£110,12000
+Petplan,Dog,Basset Hound,4,Male,Yes,Covered For Life - £4000 or more,£55.40,£664.80 ,£110,4000
+Petplan,Dog,Basset Hound,4,Male,Yes,Covered For Life - £4000 or more,£71.90,£862.80 ,£110,7000
+Petplan,Dog,Basset Hound,4,Male,Yes,Covered For Life - £4000 or more,£107.01,£1284.12 ,£110,12000
+Petplan,Dog,Basset Fauve De Bretagne,4,Male,Yes,Covered For Life - £4000 or more,£55.40,£664.80 ,£110,4000
+Petplan,Dog,Basset Fauve De Bretagne,4,Male,Yes,Covered For Life - £4000 or more,£71.90,£862.80 ,£110,7000
+Petplan,Dog,Basset Fauve De Bretagne,4,Male,Yes,Covered For Life - £4000 or more,£107.01,£1284.12 ,£110,12000
+Petplan,Dog,American Cocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£55.89,£670.68 ,£110,4000
+Petplan,Dog,American Cocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£72.53,£870.36 ,£110,7000
+Petplan,Dog,American Cocker Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£110.45,£1325.40 ,£110,12000
+Petplan,Dog,Field Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£55.89,£670.68 ,£110,4000
+Petplan,Dog,Field Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£72.53,£870.36 ,£110,7000
+Petplan,Dog,Field Spaniel,4,Male,Yes,Covered For Life - £4000 or more,£110.45,£1325.40 ,£110,12000
+Petplan,Dog,Polish Lowland Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£49.60,£595.20 ,£110,4000
+Petplan,Dog,Polish Lowland Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£64.36,£772.32 ,£110,7000
+Petplan,Dog,Polish Lowland Sheepdog,4,Male,Yes,Covered For Life - £4000 or more,£127.29,£1527.48 ,£110,12000
+Petplan,Dog,Briard,4,Male,Yes,Covered For Life - £4000 or more,£49.60,£595.20 ,£110,4000
+Petplan,Dog,Briard,4,Male,Yes,Covered For Life - £4000 or more,£64.36,£772.32 ,£110,7000
+Petplan,Dog,Briard,4,Male,Yes,Covered For Life - £4000 or more,£127.29,£1527.48 ,£110,12000
+Petplan,Dog,Bull Terrier,4,Male,Yes,Covered For Life - £4000 or more,£102.24,£1226.88 ,£110,4000
+Petplan,Dog,Bull Terrier,4,Male,Yes,Covered For Life - £4000 or more,£132.70,£1592.40 ,£110,7000
+Petplan,Dog,Bull Terrier,4,Male,Yes,Covered For Life - £4000 or more,£166.13,£1993.56 ,£110,12000
+Petplan,Dog,Boxer,4,Male,Yes,Covered For Life - £4000 or more,£77.95,£935.40 ,£110,4000
+Petplan,Dog,Boxer,4,Male,Yes,Covered For Life - £4000 or more,£101.17,£1214.04 ,£110,7000
+Petplan,Dog,Boxer,4,Male,Yes,Covered For Life - £4000 or more,£182.98,£2195.76 ,£110,12000
+Petplan,Dog,Leonberger,4,Male,Yes,Covered For Life - £4000 or more,£77.95,£935.40 ,£110,4000
+Petplan,Dog,Leonberger,4,Male,Yes,Covered For Life - £4000 or more,£101.17,£1214.04 ,£110,7000
+Petplan,Dog,Leonberger,4,Male,Yes,Covered For Life - £4000 or more,£182.98,£2195.76 ,£110,12000
+Petplan,Dog,Bernese Mountain Dog,4,Male,Yes,Covered For Life - £4000 or more,£98.14,£1177.68 ,£110,4000
+Petplan,Dog,Bernese Mountain Dog,4,Male,Yes,Covered For Life - £4000 or more,£127.38,£1528.56 ,£110,7000
+Petplan,Dog,Bernese Mountain Dog,4,Male,Yes,Covered For Life - £4000 or more,£185.69,£2228.28 ,£110,12000
+Petplan,Dog,Newfoundland,4,Male,Yes,Covered For Life - £4000 or more,£98.14,£1177.68 ,£110,4000
+Petplan,Dog,Newfoundland,4,Male,Yes,Covered For Life - £4000 or more,£127.38,£1528.56 ,£110,7000
+Petplan,Dog,Newfoundland,4,Male,Yes,Covered For Life - £4000 or more,£185.69,£2228.28 ,£110,12000
+Petplan,Dog,Rottweiler,4,Male,Yes,Covered For Life - £4000 or more,£112.00,£1344.00 ,£110,4000
+Petplan,Dog,Rottweiler,4,Male,Yes,Covered For Life - £4000 or more,£145.37,£1744.44 ,£110,7000
+Petplan,Dog,Rottweiler,4,Male,Yes,Covered For Life - £4000 or more,£186.50,£2238.00 ,£110,12000
+Petplan,Dog,Russian Black Terrier,4,Male,Yes,Covered For Life - £4000 or more,£112.00,£1344.00 ,£110,4000
+Petplan,Dog,Russian Black Terrier,4,Male,Yes,Covered For Life - £4000 or more,£145.37,£1744.44 ,£110,7000
+Petplan,Dog,Russian Black Terrier,4,Male,Yes,Covered For Life - £4000 or more,£186.50,£2238.00 ,£110,12000
+Petplan,Dog,Shar Pei,4,Male,Yes,Covered For Life - £4000 or more,£118.06,£1416.72 ,£110,4000
+Petplan,Dog,Shar Pei,4,Male,Yes,Covered For Life - £4000 or more,£153.24,£1838.88 ,£110,7000
+Petplan,Dog,Shar Pei,4,Male,Yes,Covered For Life - £4000 or more,£196.59,£2359.08 ,£110,12000
+Petplan,Dog,Sharp Eagle,4,Male,Yes,Covered For Life - £4000 or more,£118.06,£1416.72 ,£110,4000
+Petplan,Dog,Sharp Eagle,4,Male,Yes,Covered For Life - £4000 or more,£153.24,£1838.88 ,£110,7000
+Petplan,Dog,Sharp Eagle,4,Male,Yes,Covered For Life - £4000 or more,£196.59,£2359.08 ,£110,12000
+Petplan,Dog,Great Dane,4,Male,Yes,Covered For Life - £4000 or more,£119.50,£1434.00 ,£110,4000
+Petplan,Dog,Great Dane,4,Male,Yes,Covered For Life - £4000 or more,£155.10,£1861.20 ,£110,7000
+Petplan,Dog,Great Dane,4,Male,Yes,Covered For Life - £4000 or more,£207.26,£2487.12 ,£110,12000
+Petplan,Dog,St Bernard,4,Male,Yes,Covered For Life - £4000 or more,£119.50,£1434.00 ,£110,4000
+Petplan,Dog,St Bernard,4,Male,Yes,Covered For Life - £4000 or more,£155.10,£1861.20 ,£110,7000
+Petplan,Dog,St Bernard,4,Male,Yes,Covered For Life - £4000 or more,£207.26,£2487.12 ,£110,12000
+Petplan,Dog,Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£127.99,£1535.88 ,£110,4000
+Petplan,Dog,Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£166.12,£1993.44 ,£110,7000
+Petplan,Dog,Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£221.98,£2663.76 ,£110,12000
+Petplan,Dog,American Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£127.99,£1535.88 ,£110,4000
+Petplan,Dog,American Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£166.12,£1993.44 ,£110,7000
+Petplan,Dog,American Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£221.98,£2663.76 ,£110,12000
+Petplan,Dog,Bullmastiff,4,Male,Yes,Covered For Life - £4000 or more,£129.05,£1548.60 ,£110,4000
+Petplan,Dog,Bullmastiff,4,Male,Yes,Covered For Life - £4000 or more,£167.51,£2010.12 ,£110,7000
+Petplan,Dog,Bullmastiff,4,Male,Yes,Covered For Life - £4000 or more,£223.83,£2685.96 ,£110,12000
+Petplan,Dog,Mastiff,4,Male,Yes,Covered For Life - £4000 or more,£129.05,£1548.60 ,£110,4000
+Petplan,Dog,Mastiff,4,Male,Yes,Covered For Life - £4000 or more,£167.51,£2010.12 ,£110,7000
+Petplan,Dog,Mastiff,4,Male,Yes,Covered For Life - £4000 or more,£223.83,£2685.96 ,£110,12000
+Petplan,Dog,French Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£108.18,£1298.16 ,£110,4000
+Petplan,Dog,French Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£140.41,£1684.92 ,£110,7000
+Petplan,Dog,French Bulldog,4,Male,Yes,Covered For Life - £4000 or more,£224.44,£2693.28 ,£110,12000
+Petplan,Dog,Dobermann,4,Male,Yes,Covered For Life - £4000 or more,£108.18,£1298.16 ,£110,4000
+Petplan,Dog,Dobermann,4,Male,Yes,Covered For Life - £4000 or more,£140.41,£1684.92 ,£110,7000
+Petplan,Dog,Dobermann,4,Male,Yes,Covered For Life - £4000 or more,£224.44,£2693.28 ,£110,12000
+Petplan,Dog,French Mastiff,4,Male,Yes,Covered For Life - £4000 or more,£153.31,£1839.72 ,£110,4000
+Petplan,Dog,French Mastiff,4,Male,Yes,Covered For Life - £4000 or more,£198.99,£2387.88 ,£110,7000
+Petplan,Dog,French Mastiff,4,Male,Yes,Covered For Life - £4000 or more,£257.38,£3088.56 ,£110,12000
+Petplan,Dog,Dogue De Bordeaux,4,Male,Yes,Covered For Life - £4000 or more,£153.31,£1839.72 ,£110,4000
+Petplan,Dog,Dogue De Bordeaux,4,Male,Yes,Covered For Life - £4000 or more,£198.99,£2387.88 ,£110,7000
+Petplan,Dog,Dogue De Bordeaux,4,Male,Yes,Covered For Life - £4000 or more,£257.38,£3088.56 ,£110,12000
+Petplan,Dog,Irish Wolfhound,4,Male,Yes,Covered For Life - £4000 or more,£149.65,£1795.80 ,£110,4000
+Petplan,Dog,Irish Wolfhound,4,Male,Yes,Covered For Life - £4000 or more,£194.24,£2330.88 ,£110,7000
+Petplan,Dog,Irish Wolfhound,4,Male,Yes,Covered For Life - £4000 or more,£265.09,£3181.08 ,£110,12000
+Petplan,Dog,Deerhound,4,Male,Yes,Covered For Life - £4000 or more,£149.65,£1795.80 ,£110,4000
+Petplan,Dog,Deerhound,4,Male,Yes,Covered For Life - £4000 or more,£194.24,£2330.88 ,£110,7000
+Petplan,Dog,Deerhound,4,Male,Yes,Covered For Life - £4000 or more,£265.09,£3181.08 ,£110,12000
+Petplan,Dog,Medium Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£28.76,£345.12 ,£110,4000
+Petplan,Dog,Medium Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£37.31,£447.72 ,£110,7000
+Petplan,Dog,Medium Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£63.05,£756.60 ,£110,12000
+Petplan,Dog,Large Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£48.54,£582.48 ,£110,4000
+Petplan,Dog,Large Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£62.99,£755.88 ,£110,7000
+Petplan,Dog,Large Mixed Breed,4,Male,Yes,Covered For Life - £4000 or more,£78.54,£942.48 ,£110,12000
+Petplan,Dog,Labrador Retriever,2,Male,Yes,Covered For Life - £4000 or more,£35.93,£431.16 ,£110,4000
+Petplan,Dog,Labrador Retriever,2,Male,Yes,Covered For Life - £4000 or more,£43.71,£524.52 ,£110,7000
+Petplan,Dog,Labrador Retriever,2,Male,Yes,Covered For Life - £4000 or more,£59.28,£711.36 ,£110,12000
+Petplan,Dog,Labrador Retriever,3,Male,Yes,Covered For Life - £4000 or more,£38.49,£461.88 ,£110,4000
+Petplan,Dog,Labrador Retriever,3,Male,Yes,Covered For Life - £4000 or more,£48.08,£576.96 ,£110,7000
+Petplan,Dog,Labrador Retriever,3,Male,Yes,Covered For Life - £4000 or more,£65.19,£782.28 ,£110,12000
+Petplan,Dog,Labrador Retriever,4,Male,Yes,Covered For Life - £4000 or more,£40.41,£484.92 ,£110,4000
+Petplan,Dog,Labrador Retriever,4,Male,Yes,Covered For Life - £4000 or more,£52.44,£629.28 ,£110,7000
+Petplan,Dog,Labrador Retriever,4,Male,Yes,Covered For Life - £4000 or more,£71.68,£860.16 ,£110,12000
+Petplan,Dog,Labrador Retriever,5,Male,Yes,Covered For Life - £4000 or more,£53.05,£636.60 ,£110,4000
+Petplan,Dog,Labrador Retriever,5,Male,Yes,Covered For Life - £4000 or more,£67.25,£807.00 ,£110,7000
+Petplan,Dog,Labrador Retriever,5,Male,Yes,Covered For Life - £4000 or more,£78.83,£945.96 ,£110,12000
+Petplan,Dog,Labrador Retriever,6,Male,Yes,Covered For Life - £4000 or more,£61.42,£737.04 ,£110,4000
+Petplan,Dog,Labrador Retriever,6,Male,Yes,Covered For Life - £4000 or more,£77.86,£934.32 ,£110,7000
+Petplan,Dog,Labrador Retriever,6,Male,Yes,Covered For Life - £4000 or more,£91.13,£1093.56 ,£110,12000
+Petplan,Dog,Labrador Retriever,7,Male,Yes,Covered For Life - £4000 or more,£67.71,£812.52 ,£110,4000
+Petplan,Dog,Labrador Retriever,7,Male,Yes,Covered For Life - £4000 or more,£85.84,£1030.08 ,£110,7000
+Petplan,Dog,Labrador Retriever,7,Male,Yes,Covered For Life - £4000 or more,£103.55,£1242.60 ,£110,12000
+Petplan,Dog,Labrador Retriever,8,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Labrador Retriever,8,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Labrador Retriever,8,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Labrador Retriever,9,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Labrador Retriever,9,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Labrador Retriever,9,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Labrador Retriever,10,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Labrador Retriever,10,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Labrador Retriever,10,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Labrador Retriever,11,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Labrador Retriever,11,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Labrador Retriever,11,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Labrador Retriever,12,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Labrador Retriever,12,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Labrador Retriever,12,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Labrador Retriever,13,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Dog,Labrador Retriever,13,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Dog,Labrador Retriever,13,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Dog,Labrador Retriever,4,Male,No,Covered For Life - £4000 or more,£40.41,£484.92 ,£110,4000
+Petplan,Dog,Labrador Retriever,4,Male,No,Covered For Life - £4000 or more,£52.44,£629.28 ,£110,7000
+Petplan,Dog,Labrador Retriever,4,Male,No,Covered For Life - £4000 or more,£71.68,£860.16 ,£110,12000
+Petplan,Dog,Labrador Retriever,4,Female,Yes,Covered For Life - £4000 or more,£37.52,£450.24 ,£110,4000
+Petplan,Dog,Labrador Retriever,4,Female,Yes,Covered For Life - £4000 or more,£48.69,£584.28 ,£110,7000
+Petplan,Dog,Labrador Retriever,4,Female,Yes,Covered For Life - £4000 or more,£66.56,£798.72 ,£110,12000
+Petplan,Dog,Labrador Retriever,4,Female,No,Covered For Life - £4000 or more,£37.52,£450.24 ,£110,4000
+Petplan,Dog,Labrador Retriever,4,Female,No,Covered For Life - £4000 or more,£48.69,£584.28 ,£110,7000
+Petplan,Dog,Labrador Retriever,4,Female,No,Covered For Life - £4000 or more,£66.56,£798.72 ,£110,12000
+Petplan,Cat,Ragamuffin,4,Male,Yes,Covered For Life - £4000 or more,£14.43,£173.16 ,£95,4000
+Petplan,Cat,Ragamuffin,4,Male,Yes,Covered For Life - £4000 or more,£16.50,£198.00 ,£95,7000
+Petplan,Cat,Ragamuffin,4,Male,Yes,Covered For Life - £4000 or more,£21.79,£261.48 ,£95,12000
+Petplan,Cat,Rag Doll,4,Male,Yes,Covered For Life - £4000 or more,£14.43,£173.16 ,£95,4000
+Petplan,Cat,Rag Doll,4,Male,Yes,Covered For Life - £4000 or more,£16.50,£198.00 ,£95,7000
+Petplan,Cat,Rag Doll,4,Male,Yes,Covered For Life - £4000 or more,£21.79,£261.48 ,£95,12000
+Petplan,Cat,Birman,4,Male,Yes,Covered For Life - £4000 or more,£14.37,£172.44 ,£95,4000
+Petplan,Cat,Birman,4,Male,Yes,Covered For Life - £4000 or more,£16.42,£197.04 ,£95,7000
+Petplan,Cat,Birman,4,Male,Yes,Covered For Life - £4000 or more,£23.05,£276.60 ,£95,12000
+Petplan,Cat,Norwegian Forest Cat,4,Male,Yes,Covered For Life - £4000 or more,£17.10,£205.20 ,£95,4000
+Petplan,Cat,Norwegian Forest Cat,4,Male,Yes,Covered For Life - £4000 or more,£19.55,£234.60 ,£95,7000
+Petplan,Cat,Norwegian Forest Cat,4,Male,Yes,Covered For Life - £4000 or more,£24.39,£292.68 ,£95,12000
+Petplan,Cat,Russian Blue,4,Male,Yes,Covered For Life - £4000 or more,£16.49,£197.88 ,£95,4000
+Petplan,Cat,Russian Blue,4,Male,Yes,Covered For Life - £4000 or more,£18.85,£226.20 ,£95,7000
+Petplan,Cat,Russian Blue,4,Male,Yes,Covered For Life - £4000 or more,£24.39,£292.68 ,£95,12000
+Petplan,Cat,British Longhair,4,Male,Yes,Covered For Life - £4000 or more,£16.18,£194.16 ,£95,4000
+Petplan,Cat,British Longhair,4,Male,Yes,Covered For Life - £4000 or more,£18.50,£222.00 ,£95,7000
+Petplan,Cat,British Longhair,4,Male,Yes,Covered For Life - £4000 or more,£24.78,£297.36 ,£95,12000
+Petplan,Cat,American Shorthair,4,Male,Yes,Covered For Life - £4000 or more,£16.18,£194.16 ,£95,4000
+Petplan,Cat,American Shorthair,4,Male,Yes,Covered For Life - £4000 or more,£18.50,£222.00 ,£95,7000
+Petplan,Cat,American Shorthair,4,Male,Yes,Covered For Life - £4000 or more,£24.78,£297.36 ,£95,12000
+Petplan,Cat,Burmese,4,Male,Yes,Covered For Life - £4000 or more,£16.52,£198.24 ,£95,4000
+Petplan,Cat,Burmese,4,Male,Yes,Covered For Life - £4000 or more,£18.89,£226.68 ,£95,7000
+Petplan,Cat,Burmese,4,Male,Yes,Covered For Life - £4000 or more,£25.76,£309.12 ,£95,12000
+Petplan,Cat,Devon Rex,4,Male,Yes,Covered For Life - £4000 or more,£16.52,£198.24 ,£95,4000
+Petplan,Cat,Devon Rex,4,Male,Yes,Covered For Life - £4000 or more,£18.89,£226.68 ,£95,7000
+Petplan,Cat,Devon Rex,4,Male,Yes,Covered For Life - £4000 or more,£25.76,£309.12 ,£95,12000
+Petplan,Cat,Sphynx,4,Male,Yes,Covered For Life - £4000 or more,£18.71,£224.52 ,£95,4000
+Petplan,Cat,Sphynx,4,Male,Yes,Covered For Life - £4000 or more,£21.39,£256.68 ,£95,7000
+Petplan,Cat,Sphynx,4,Male,Yes,Covered For Life - £4000 or more,£26.70,£320.40 ,£95,12000
+Petplan,Cat,Abyssinian,4,Male,Yes,Covered For Life - £4000 or more,£18.71,£224.52 ,£95,4000
+Petplan,Cat,Abyssinian,4,Male,Yes,Covered For Life - £4000 or more,£21.39,£256.68 ,£95,7000
+Petplan,Cat,Abyssinian,4,Male,Yes,Covered For Life - £4000 or more,£26.70,£320.40 ,£95,12000
+Petplan,Cat,Bengal,4,Male,Yes,Covered For Life - £4000 or more,£20.08,£240.96 ,£95,4000
+Petplan,Cat,Bengal,4,Male,Yes,Covered For Life - £4000 or more,£22.95,£275.40 ,£95,7000
+Petplan,Cat,Bengal,4,Male,Yes,Covered For Life - £4000 or more,£28.03,£336.36 ,£95,12000
+Petplan,Cat,Savannah,4,Male,Yes,Covered For Life - £4000 or more,£20.08,£240.96 ,£95,4000
+Petplan,Cat,Savannah,4,Male,Yes,Covered For Life - £4000 or more,£22.95,£275.40 ,£95,7000
+Petplan,Cat,Savannah,4,Male,Yes,Covered For Life - £4000 or more,£28.03,£336.36 ,£95,12000
+Petplan,Cat,Persian,4,Male,Yes,Covered For Life - £4000 or more,£20.58,£246.96 ,£95,4000
+Petplan,Cat,Persian,4,Male,Yes,Covered For Life - £4000 or more,£23.52,£282.24 ,£95,7000
+Petplan,Cat,Persian,4,Male,Yes,Covered For Life - £4000 or more,£28.68,£344.16 ,£95,12000
+Petplan,Cat,Chinchilla,4,Male,Yes,Covered For Life - £4000 or more,£20.58,£246.96 ,£95,4000
+Petplan,Cat,Chinchilla,4,Male,Yes,Covered For Life - £4000 or more,£23.52,£282.24 ,£95,7000
+Petplan,Cat,Chinchilla,4,Male,Yes,Covered For Life - £4000 or more,£28.68,£344.16 ,£95,12000
+Petplan,Cat,Siamese,4,Male,Yes,Covered For Life - £4000 or more,£20.00,£240.00 ,£95,4000
+Petplan,Cat,Siamese,4,Male,Yes,Covered For Life - £4000 or more,£22.87,£274.44 ,£95,7000
+Petplan,Cat,Siamese,4,Male,Yes,Covered For Life - £4000 or more,£28.88,£346.56 ,£95,12000
+Petplan,Cat,Balinese,4,Male,Yes,Covered For Life - £4000 or more,£20.00,£240.00 ,£95,4000
+Petplan,Cat,Balinese,4,Male,Yes,Covered For Life - £4000 or more,£22.87,£274.44 ,£95,7000
+Petplan,Cat,Balinese,4,Male,Yes,Covered For Life - £4000 or more,£28.88,£346.56 ,£95,12000
+Petplan,Cat,Maine Coon,4,Male,Yes,Covered For Life - £4000 or more,£22.30,£267.60 ,£95,4000
+Petplan,Cat,Maine Coon,4,Male,Yes,Covered For Life - £4000 or more,£25.50,£306.00 ,£95,7000
+Petplan,Cat,Maine Coon,4,Male,Yes,Covered For Life - £4000 or more,£31.83,£381.96 ,£95,12000
+Petplan,Cat,Siberian,4,Male,Yes,Covered For Life - £4000 or more,£22.30,£267.60 ,£95,4000
+Petplan,Cat,Siberian,4,Male,Yes,Covered For Life - £4000 or more,£25.50,£306.00 ,£95,7000
+Petplan,Cat,Siberian,4,Male,Yes,Covered For Life - £4000 or more,£31.83,£381.96 ,£95,12000
+Petplan,Cat,Domestic Shorthair,2,Male,Yes,Covered For Life - £4000 or more,£14.36,£172.32 ,£95,4000
+Petplan,Cat,Domestic Shorthair,2,Male,Yes,Covered For Life - £4000 or more,£16.42,£197.04 ,£95,7000
+Petplan,Cat,Domestic Shorthair,2,Male,Yes,Covered For Life - £4000 or more,£23.04,£276.48 ,£95,12000
+Petplan,Cat,Domestic Shorthair,3,Male,Yes,Covered For Life - £4000 or more,£14.36,£172.32 ,£95,4000
+Petplan,Cat,Domestic Shorthair,3,Male,Yes,Covered For Life - £4000 or more,£16.42,£197.04 ,£95,7000
+Petplan,Cat,Domestic Shorthair,3,Male,Yes,Covered For Life - £4000 or more,£23.04,£276.48 ,£95,12000
+Petplan,Cat,Domestic Shorthair,4,Male,Yes,Covered For Life - £4000 or more,£14.36,£172.32 ,£95,4000
+Petplan,Cat,Domestic Shorthair,4,Male,Yes,Covered For Life - £4000 or more,£16.42,£197.04 ,£95,7000
+Petplan,Cat,Domestic Shorthair,4,Male,Yes,Covered For Life - £4000 or more,£23.04,£276.48 ,£95,12000
+Petplan,Cat,Domestic Shorthair,5,Male,Yes,Covered For Life - £4000 or more,£17.44,£209.28 ,£95,4000
+Petplan,Cat,Domestic Shorthair,5,Male,Yes,Covered For Life - £4000 or more,£19.94,£239.28 ,£95,7000
+Petplan,Cat,Domestic Shorthair,5,Male,Yes,Covered For Life - £4000 or more,£27.98,£335.76 ,£95,12000
+Petplan,Cat,Domestic Shorthair,6,Male,Yes,Covered For Life - £4000 or more,£17.76,£213.12 ,£95,4000
+Petplan,Cat,Domestic Shorthair,6,Male,Yes,Covered For Life - £4000 or more,£20.31,£243.72 ,£95,7000
+Petplan,Cat,Domestic Shorthair,6,Male,Yes,Covered For Life - £4000 or more,£28.50,£342.00 ,£95,12000
+Petplan,Cat,Domestic Shorthair,7,Male,Yes,Covered For Life - £4000 or more,£17.76,£213.12 ,£95,4000
+Petplan,Cat,Domestic Shorthair,7,Male,Yes,Covered For Life - £4000 or more,£20.31,£243.72 ,£95,7000
+Petplan,Cat,Domestic Shorthair,7,Male,Yes,Covered For Life - £4000 or more,£28.50,£342.00 ,£95,12000
+Petplan,Cat,Domestic Shorthair,8,Male,Yes,Covered For Life - £4000 or more,£20.35,£244.20 ,£115,4000
+Petplan,Cat,Domestic Shorthair,8,Male,Yes,Covered For Life - £4000 or more,£23.26,£279.12 ,£115,7000
+Petplan,Cat,Domestic Shorthair,8,Male,Yes,Covered For Life - £4000 or more,£30.72,£368.64 ,£115,12000
+Petplan,Cat,Domestic Shorthair,9,Male,Yes,Covered For Life - £4000 or more,£20.54,£246.48 ,£125,4000
+Petplan,Cat,Domestic Shorthair,9,Male,Yes,Covered For Life - £4000 or more,£23.48,£281.76 ,£125,7000
+Petplan,Cat,Domestic Shorthair,9,Male,Yes,Covered For Life - £4000 or more,£30.98,£371.76 ,£125,12000
+Petplan,Cat,Domestic Shorthair,10,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Cat,Domestic Shorthair,10,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Cat,Domestic Shorthair,10,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Cat,Domestic Shorthair,11,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Cat,Domestic Shorthair,11,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Cat,Domestic Shorthair,11,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Cat,Domestic Shorthair,12,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Cat,Domestic Shorthair,12,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Cat,Domestic Shorthair,12,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Cat,Domestic Shorthair,13,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Cat,Domestic Shorthair,13,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Cat,Domestic Shorthair,13,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Cat,Domestic Shorthair,14,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Cat,Domestic Shorthair,14,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Cat,Domestic Shorthair,14,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Cat,Domestic Shorthair,15,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Petplan,Cat,Domestic Shorthair,15,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Petplan,Cat,Domestic Shorthair,15,Male,Yes,Covered For Life - £4000 or more,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Petplan,Cat,Domestic Shorthair,4,Male,No,Covered For Life - £4000 or more,£14.36,£172.32 ,£95,4000
+Petplan,Cat,Domestic Shorthair,4,Male,No,Covered For Life - £4000 or more,£16.42,£197.04 ,£95,7000
+Petplan,Cat,Domestic Shorthair,4,Male,No,Covered For Life - £4000 or more,£23.04,£276.48 ,£95,12000
+Petplan,Cat,Domestic Shorthair,4,Female,Yes,Covered For Life - £4000 or more,£10.78,£129.36 ,£95,4000
+Petplan,Cat,Domestic Shorthair,4,Female,Yes,Covered For Life - £4000 or more,£12.32,£147.84 ,£95,7000
+Petplan,Cat,Domestic Shorthair,4,Female,Yes,Covered For Life - £4000 or more,£17.29,£207.48 ,£95,12000
+Petplan,Cat,Domestic Shorthair,4,Female,No,Covered For Life - £4000 or more,£10.78,£129.36 ,£95,4000
+Petplan,Cat,Domestic Shorthair,4,Female,No,Covered For Life - £4000 or more,£12.32,£147.84 ,£95,7000
+Petplan,Cat,Domestic Shorthair,4,Female,No,Covered For Life - £4000 or more,£17.29,£207.48 ,£95,12000

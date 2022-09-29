@@ -1,0 +1,203 @@
+Site,Pet,Breed,Age,Gender,Neutered,Purchase Price,Monthly,Yearly,Vet Excess,Annual Condition Limit
+Pet Plan,Dog,Aberdeen Terrier,4,Male,Yes,Free,£32.09,£385.08 ,£110,4000
+Pet Plan,Dog,Aberdeen Terrier,4,Male,Yes,Free,£41.64,£499.68 ,£110,7000
+Pet Plan,Dog,Aberdeen Terrier,4,Male,Yes,Free,£56.78,£681.36 ,£110,4000
+Pet Plan,Dog,Abyssinian Sand Terrier,4,Male,Yes,Free,£34.06,£408.72 ,£110,4000
+Pet Plan,Dog,Abyssinian Sand Terrier,4,Male,Yes,Free,£44.20,£530.40 ,£110,7000
+Pet Plan,Dog,Abyssinian Sand Terrier,4,Male,Yes,Free,£59.78,£717.36 ,£110,4000
+Pet Plan,Dog,Affenpinscher,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Affenpinscher,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Affenpinscher,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Afghan Hound,4,Male,Yes,Free,£49.02,£588.24 ,£110,4000
+Pet Plan,Dog,Afghan Hound,4,Male,Yes,Free,£63.62,£763.44 ,£110,7000
+Pet Plan,Dog,Afghan Hound,4,Male,Yes,Free,£80.63,£967.56 ,£110,4000
+Pet Plan,Dog,Africanis,4,Male,Yes,Free,£49.02,£588.24 ,£110,4000
+Pet Plan,Dog,Africanis,4,Male,Yes,Free,£63.62,£763.44 ,£110,7000
+Pet Plan,Dog,Africanis,4,Male,Yes,Free,£80.63,£967.56 ,£110,4000
+Pet Plan,Dog,Aidi (Atlas Sheepdog),4,Male,Yes,Free,£40.11,£481.32 ,£110,4000
+Pet Plan,Dog,Aidi (Atlas Sheepdog),4,Male,Yes,Free,£52.05,£624.60 ,£110,7000
+Pet Plan,Dog,Aidi (Atlas Sheepdog),4,Male,Yes,Free,£71.14,£853.68 ,£110,4000
+Pet Plan,Dog,Airedale Terrier,4,Male,Yes,Free,£45.29,£543.48 ,£110,4000
+Pet Plan,Dog,Airedale Terrier,4,Male,Yes,Free,£58.77,£705.24 ,£110,7000
+Pet Plan,Dog,Airedale Terrier,4,Male,Yes,Free,£74.97,£899.64 ,£110,4000
+Pet Plan,Dog,Airedoodle,4,Male,Yes,Free,£45.29,£543.48 ,£110,4000
+Pet Plan,Dog,Airedoodle,4,Male,Yes,Free,£58.77,£705.24 ,£110,7000
+Pet Plan,Dog,Airedoodle,4,Male,Yes,Free,£74.97,£899.64 ,£110,4000
+Pet Plan,Dog,Akbash,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Akbash,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Akbash,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Akita,4,Male,Yes,Free,£64.18,£770.16 ,£110,4000
+Pet Plan,Dog,Akita,4,Male,Yes,Free,£83.30,£999.60 ,£110,7000
+Pet Plan,Dog,Akita,4,Male,Yes,Free,£105.52,£1266.24 ,£110,4000
+Pet Plan,Dog,Alaskan Kleekai,4,Male,Yes,Free,£40.79,£489.48 ,£110,4000
+Pet Plan,Dog,Alaskan Kleekai,4,Male,Yes,Free,£52.94,£635.28 ,£110,7000
+Pet Plan,Dog,Alaskan Kleekai,4,Male,Yes,Free,£67.07,£804.84 ,£110,4000
+Pet Plan,Dog,Alaskan Malador,4,Male,Yes,Free,£40.79,£489.48 ,£110,4000
+Pet Plan,Dog,Alaskan Malador,4,Male,Yes,Free,£52.94,£635.28 ,£110,7000
+Pet Plan,Dog,Alaskan Malador,4,Male,Yes,Free,£67.07,£804.84 ,£110,4000
+Pet Plan,Dog,Alaskan Malamute,4,Male,Yes,Free,£40.79,£489.48 ,£110,4000
+Pet Plan,Dog,Alaskan Malamute,4,Male,Yes,Free,£52.94,£635.28 ,£110,7000
+Pet Plan,Dog,Alaskan Malamute,4,Male,Yes,Free,£67.07,£804.84 ,£110,4000
+Pet Plan,Dog,Alaskan Shepherd,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Alaskan Shepherd,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Alaskan Shepherd,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Alaunt,4,Male,Yes,Free,£128.08,£1536.96 ,£110,4000
+Pet Plan,Dog,Alaunt,4,Male,Yes,Free,£166.24,£1994.88 ,£110,7000
+Pet Plan,Dog,Alaunt,4,Male,Yes,Free,£222.14,£2665.68 ,£110,4000
+Pet Plan,Dog,Alpha Blue Bulldog,4,Male,Yes,Free,£127.02,£1524.24 ,£110,4000
+Pet Plan,Dog,Alpha Blue Bulldog,4,Male,Yes,Free,£164.87,£1978.44 ,£110,7000
+Pet Plan,Dog,Alpha Blue Bulldog,4,Male,Yes,Free,£220.30,£2643.60 ,£110,4000
+Pet Plan,Dog,Alpine Dachsbracke,4,Male,Yes,Free,£111.15,£1333.80 ,£110,4000
+Pet Plan,Dog,Alpine Dachsbracke,4,Male,Yes,Free,£144.27,£1731.24 ,£110,7000
+Pet Plan,Dog,Alpine Dachsbracke,4,Male,Yes,Free,£185.09,£2221.08 ,£110,4000
+Pet Plan,Dog,Alsatian,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Alsatian,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Alsatian,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Alusky,4,Male,Yes,Free,£40.79,£489.48 ,£110,4000
+Pet Plan,Dog,Alusky,4,Male,Yes,Free,£52.94,£635.28 ,£110,7000
+Pet Plan,Dog,Alusky,4,Male,Yes,Free,£67.07,£804.84 ,£110,4000
+Pet Plan,Dog,American Akita,4,Male,Yes,Free,£64.18,£770.16 ,£110,4000
+Pet Plan,Dog,American Akita,4,Male,Yes,Free,£83.30,£999.60 ,£110,7000
+Pet Plan,Dog,American Akita,4,Male,Yes,Free,£105.52,£1266.24 ,£110,4000
+Pet Plan,Dog,American Bulldog,4,Male,Yes,Free,£127.02,£1524.24 ,£110,4000
+Pet Plan,Dog,American Bulldog,4,Male,Yes,Free,£164.87,£1978.44 ,£110,7000
+Pet Plan,Dog,American Bulldog,4,Male,Yes,Free,£220.30,£2643.60 ,£110,4000
+Pet Plan,Dog,American Bullmastiff,4,Male,Yes,Free,£128.08,£1536.96 ,£110,4000
+Pet Plan,Dog,American Bullmastiff,4,Male,Yes,Free,£166.24,£1994.88 ,£110,7000
+Pet Plan,Dog,American Bullmastiff,4,Male,Yes,Free,£222.14,£2665.68 ,£110,4000
+Pet Plan,Dog,American Cocker Spaniel,4,Male,Yes,Free,£55.46,£665.52 ,£110,4000
+Pet Plan,Dog,American Cocker Spaniel,4,Male,Yes,Free,£71.98,£863.76 ,£110,7000
+Pet Plan,Dog,American Cocker Spaniel,4,Male,Yes,Free,£109.62,£1315.44 ,£110,4000
+Pet Plan,Dog,American English Coonhound,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,American English Coonhound,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,American English Coonhound,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,American Field Labrador,4,Male,Yes,Free,£40.11,£481.32 ,£110,4000
+Pet Plan,Dog,American Field Labrador,4,Male,Yes,Free,£52.05,£624.60 ,£110,7000
+Pet Plan,Dog,American Field Labrador,4,Male,Yes,Free,£71.14,£853.68 ,£110,4000
+Pet Plan,Dog,American Foxhound,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,American Foxhound,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,American Foxhound,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,American Hairless Terrier,4,Male,Yes,Free,£34.06,£408.72 ,£110,4000
+Pet Plan,Dog,American Hairless Terrier,4,Male,Yes,Free,£44.20,£530.40 ,£110,7000
+Pet Plan,Dog,American Hairless Terrier,4,Male,Yes,Free,£59.78,£717.36 ,£110,4000
+Pet Plan,Dog,American Hunt Terrier,4,Male,Yes,Free,£25.47,£305.64 ,£110,4000
+Pet Plan,Dog,American Hunt Terrier,4,Male,Yes,Free,£33.04,£396.48 ,£110,7000
+Pet Plan,Dog,American Hunt Terrier,4,Male,Yes,Free,£55.85,£670.20 ,£110,4000
+Pet Plan,Dog,American Indian Dog,4,Male,Yes,Free,£30.95,£371.40 ,£110,4000
+Pet Plan,Dog,American Indian Dog,4,Male,Yes,Free,£40.16,£481.92 ,£110,7000
+Pet Plan,Dog,American Indian Dog,4,Male,Yes,Free,£67.85,£814.20 ,£110,4000
+Pet Plan,Dog,American Johnson Bulldog,4,Male,Yes,Free,£127.02,£1524.24 ,£110,4000
+Pet Plan,Dog,American Johnson Bulldog,4,Male,Yes,Free,£164.87,£1978.44 ,£110,7000
+Pet Plan,Dog,American Johnson Bulldog,4,Male,Yes,Free,£220.30,£2643.60 ,£110,4000
+Pet Plan,Dog,American Spitz,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,American Spitz,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,American Spitz,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,American Water Spaniel,4,Male,Yes,Free,£32.41,£388.92 ,£110,4000
+Pet Plan,Dog,American Water Spaniel,4,Male,Yes,Free,£42.06,£504.72 ,£110,7000
+Pet Plan,Dog,American Water Spaniel,4,Male,Yes,Free,£57.35,£688.20 ,£110,4000
+Pet Plan,Dog,Anatolian Karabash Dog,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Anatolian Karabash Dog,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Anatolian Karabash Dog,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Anatolian Shepherd Dog,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Anatolian Shepherd Dog,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Anatolian Shepherd Dog,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Anglo Francais De Moyen Venerie,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Anglo Francais De Moyen Venerie,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Anglo Francais De Moyen Venerie,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Appenzeller Sennenhund,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Appenzeller Sennenhund,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Appenzeller Sennenhund,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Ariegeois,4,Male,Yes,Free,£148.52,£1782.24 ,£110,4000
+Pet Plan,Dog,Ariegeois,4,Male,Yes,Free,£192.77,£2313.24 ,£110,7000
+Pet Plan,Dog,Ariegeois,4,Male,Yes,Free,£263.09,£3157.08 ,£110,4000
+Pet Plan,Dog,Australian Bull Arab,4,Male,Yes,Free,£118.59,£1423.08 ,£110,4000
+Pet Plan,Dog,Australian Bull Arab,4,Male,Yes,Free,£153.93,£1847.16 ,£110,7000
+Pet Plan,Dog,Australian Bull Arab,4,Male,Yes,Free,£205.70,£2468.40 ,£110,4000
+Pet Plan,Dog,Australian Cattle Dog,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Australian Cattle Dog,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Australian Cattle Dog,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Australian Kelpie Sheepdog,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Australian Kelpie Sheepdog,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Australian Kelpie Sheepdog,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Australian Labradoodle,4,Male,Yes,Free,£30.95,£371.40 ,£110,4000
+Pet Plan,Dog,Australian Labradoodle,4,Male,Yes,Free,£40.16,£481.92 ,£110,7000
+Pet Plan,Dog,Australian Labradoodle,4,Male,Yes,Free,£67.85,£814.20 ,£110,4000
+Pet Plan,Dog,Australian Shepherd Dog,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Australian Shepherd Dog,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Australian Shepherd Dog,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Australian Silky Terrier,4,Male,Yes,Free,£32.09,£385.08 ,£110,4000
+Pet Plan,Dog,Australian Silky Terrier,4,Male,Yes,Free,£41.64,£499.68 ,£110,7000
+Pet Plan,Dog,Australian Silky Terrier,4,Male,Yes,Free,£56.78,£681.36 ,£110,4000
+Pet Plan,Dog,Australian Terrier,4,Male,Yes,Free,£32.09,£385.08 ,£110,4000
+Pet Plan,Dog,Australian Terrier,4,Male,Yes,Free,£41.64,£499.68 ,£110,7000
+Pet Plan,Dog,Australian Terrier,4,Male,Yes,Free,£56.78,£681.36 ,£110,4000
+Pet Plan,Dog,Aylestone Old Tyme Bulldog,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Aylestone Old Tyme Bulldog,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Aylestone Old Tyme Bulldog,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Azawakh,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Azawakh,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Azawakh,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Azores Cattle Dog,4,Male,Yes,Free,£128.08,£1536.96 ,£110,4000
+Pet Plan,Dog,Azores Cattle Dog,4,Male,Yes,Free,£166.24,£1994.88 ,£110,7000
+Pet Plan,Dog,Azores Cattle Dog,4,Male,Yes,Free,£222.14,£2665.68 ,£110,4000
+Pet Plan,Dog,Bagle Hound,4,Male,Yes,Free,£54.98,£659.76 ,£110,4000
+Pet Plan,Dog,Bagle Hound,4,Male,Yes,Free,£71.36,£856.32 ,£110,7000
+Pet Plan,Dog,Bagle Hound,4,Male,Yes,Free,£106.20,£1274.40 ,£110,4000
+Pet Plan,Dog,Balkan Hound,4,Male,Yes,Free,£38.06,£456.72 ,£110,4000
+Pet Plan,Dog,Balkan Hound,4,Male,Yes,Free,£49.39,£592.68 ,£110,7000
+Pet Plan,Dog,Balkan Hound,4,Male,Yes,Free,£67.07,£804.84 ,£110,4000
+Pet Plan,Dog,Bosnian Coarse-haired Hound,4,Male,Yes,Free,£59.86,£718.32 ,£110,4000
+Pet Plan,Dog,Bosnian Coarse-haired Hound,4,Male,Yes,Free,£77.69,£932.28 ,£110,7000
+Pet Plan,Dog,Bosnian Coarse-haired Hound,4,Male,Yes,Free,£95.03,£1140.36 ,£110,4000
+Pet Plan,Dog,Barbado Da Terceira,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Barbado Da Terceira,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Barbado Da Terceira,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Barbet,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Barbet,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Barbet,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Basenji,4,Male,Yes,Free,£34.82,£417.84 ,£110,4000
+Pet Plan,Dog,Basenji,4,Male,Yes,Free,£45.19,£542.28 ,£110,7000
+Pet Plan,Dog,Basenji,4,Male,Yes,Free,£61.60,£739.20 ,£110,4000
+Pet Plan,Dog,Basque Shepherd,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Basque Shepherd,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Basque Shepherd,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Basser Bleu De Gascogne,4,Male,Yes,Free,£54.98,£659.76 ,£110,4000
+Pet Plan,Dog,Basser Bleu De Gascogne,4,Male,Yes,Free,£71.36,£856.32 ,£110,7000
+Pet Plan,Dog,Basser Bleu De Gascogne,4,Male,Yes,Free,£106.20,£1274.40 ,£110,4000
+Pet Plan,Dog,Basset Artesien Normand,4,Male,Yes,Free,£54.98,£659.76 ,£110,4000
+Pet Plan,Dog,Basset Artesien Normand,4,Male,Yes,Free,£71.36,£856.32 ,£110,7000
+Pet Plan,Dog,Basset Artesien Normand,4,Male,Yes,Free,£106.20,£1274.40 ,£110,4000
+Pet Plan,Dog,Basset Fauve De Bretagne,4,Male,Yes,Free,£54.98,£659.76 ,£110,4000
+Pet Plan,Dog,Basset Fauve De Bretagne,4,Male,Yes,Free,£71.36,£856.32 ,£110,7000
+Pet Plan,Dog,Basset Fauve De Bretagne,4,Male,Yes,Free,£106.20,£1274.40 ,£110,4000
+Pet Plan,Dog,Basset Griffon Vendeen,4,Male,Yes,Free,£54.98,£659.76 ,£110,4000
+Pet Plan,Dog,Basset Griffon Vendeen,4,Male,Yes,Free,£71.36,£856.32 ,£110,7000
+Pet Plan,Dog,Basset Griffon Vendeen,4,Male,Yes,Free,£106.20,£1274.40 ,£110,4000
+Pet Plan,Dog,Basset Hound,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Basset Hound,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Basset Hound,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Bavarian Mountain Hound,4,Male,Yes,Free,£148.52,£1782.24 ,£110,4000
+Pet Plan,Dog,Bavarian Mountain Hound,4,Male,Yes,Free,£192.77,£2313.24 ,£110,7000
+Pet Plan,Dog,Bavarian Mountain Hound,4,Male,Yes,Free,£263.09,£3157.08 ,£110,4000
+Pet Plan,Dog,Beagle,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Beagle,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Beagle,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Beagle Harrier,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Dog,Beagle Harrier,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Dog,Beagle Harrier,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
+Pet Plan,Dog,Beaglier,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Beaglier,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Beaglier,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Beago Retriever,4,Male,Yes,Free,£32.63,£391.56 ,£110,4000
+Pet Plan,Dog,Beago Retriever,4,Male,Yes,Free,£42.35,£508.20 ,£110,7000
+Pet Plan,Dog,Beago Retriever,4,Male,Yes,Free,£71.54,£858.48 ,£110,4000
+Pet Plan,Dog,Bearded Collie,4,Male,Yes,Free,£36.78,£441.36 ,£110,4000
+Pet Plan,Dog,Bearded Collie,4,Male,Yes,Free,£47.73,£572.76 ,£110,7000
+Pet Plan,Dog,Bearded Collie,4,Male,Yes,Free,£64.03,£768.36 ,£110,4000
+Pet Plan,Dog,Beaucheron,4,Male,Yes,Free,£111.15,£1333.80 ,£110,4000
+Pet Plan,Dog,Beaucheron,4,Male,Yes,Free,£144.27,£1731.24 ,£110,7000
+Pet Plan,Dog,Beaucheron,4,Male,Yes,Free,£185.09,£2221.08 ,£110,4000
+Pet Plan,Dog,Bedlington Terrier,4,Male,Yes,Free,£37.92,£455.04 ,£110,4000
+Pet Plan,Dog,Bedlington Terrier,4,Male,Yes,Free,£49.20,£590.40 ,£110,7000
+Pet Plan,Dog,Bedlington Terrier,4,Male,Yes,Free,£60.99,£731.88 ,£110,4000
+Pet Plan,Dog,Bedoodle,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000

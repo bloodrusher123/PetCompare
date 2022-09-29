@@ -1,0 +1,81 @@
+Site,Pet,Breed,Age,Gender,Neutered,Monthly,Yearly,Cover
+Animal Friends,Dog,Cocker Spaniel,3,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,3,Male,Yes,£7.68,£92.16,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,£7.68,£92.16,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,5,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,5,Male,Yes,£7.68,£92.16,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,6,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,6,Male,Yes,£9.23,£110.76,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,7,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,7,Male,Yes,£11.14,£133.68,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,8,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,8,Male,Yes,£13.15,£157.80,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,9,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,9,Male,Yes,£10.88,£130.56,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,10,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,10,Male,Yes,£12.07,£144.84,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,11,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,11,Male,Yes,£13.24,£158.88,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,12,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,12,Male,Yes,£14.37,£172.44,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,13,Male,Yes,£4.56,£54.72,Accident Only
+Animal Friends,Dog,Cocker Spaniel,13,Male,Yes,£14.85,£178.20,Accident and Illness
+Animal Friends,Dog,Shih Tzu,4,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Shih Tzu,4,Male,Yes,£5.53,£66.36,Accident and Illness
+Animal Friends,Dog,Labrador Retriever,4,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Labrador Retriever,4,Male,Yes,£8.43,£101.16,Accident and Illness
+Animal Friends,Dog,Border Collie,4,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Border Collie,4,Male,Yes,£6.85,£82.20,Accident and Illness
+Animal Friends,Dog,Beagle,4,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Beagle,4,Male,Yes,£8.90,£106.80,Accident and Illness
+Animal Friends,Dog,Yorkshire Terrier,4,Male,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Yorkshire Terrier,4,Male,Yes,£5.60,£67.20,Accident and Illness
+Animal Friends,Dog,Bulldog,4,Male,Yes,£4.70,£56.40,Accident Only
+Animal Friends,Dog,Bulldog,4,Male,Yes,£15.33,£183.96,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,4,Male,No,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,4,Male,No,£7.68,£92.16,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,4,Female,Yes,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,4,Female,Yes,£7.68,£92.16,Accident and Illness
+Animal Friends,Dog,Cocker Spaniel,4,Female,No,£4.48,£53.76,Accident Only
+Animal Friends,Dog,Cocker Spaniel,4,Female,No,£7.68,£92.16,Accident and Illness
+Animal Friends,Cat,Moggie,2,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,2,Female,Yes,£4.22,£50.64,Accident and Illness
+Animal Friends,Cat,Moggie,3,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,3,Female,Yes,£4.22,£50.64,Accident and Illness
+Animal Friends,Cat,Moggie,4,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,4,Female,Yes,£4.22,£50.64,Accident and Illness
+Animal Friends,Cat,Moggie,5,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,5,Female,Yes,£4.44,£53.28,Accident and Illness
+Animal Friends,Cat,Moggie,6,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,6,Female,Yes,£4.44,£53.28,Accident and Illness
+Animal Friends,Cat,Moggie,7,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,7,Female,Yes,£4.44,£53.28,Accident and Illness
+Animal Friends,Cat,Moggie,8,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,8,Female,Yes,£4.82,£57.84,Accident and Illness
+Animal Friends,Cat,Moggie,9,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,9,Female,Yes,£5.12,£61.44,Accident and Illness
+Animal Friends,Cat,Moggie,10,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,10,Female,Yes,£5.87,£70.44,Accident and Illness
+Animal Friends,Cat,Moggie,11,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,11,Female,Yes,£5.66,£67.92,Accident and Illness
+Animal Friends,Cat,Moggie,12,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,12,Female,Yes,£6.46,£77.52,Accident and Illness
+Animal Friends,Cat,Moggie,13,Female,Yes,£3.18,£38.16,Accident Only
+Animal Friends,Cat,Moggie,13,Female,Yes,£7.52,£90.24,Accident and Illness
+Animal Friends,Cat,Moggie,14,Female,Yes,£3.68,£44.16,Accident Only
+Animal Friends,Cat,Moggie,14,Female,Yes,£8.80,£105.60,Accident and Illness
+Animal Friends,Cat,Moggie,15,Female,Yes,£4.18,£50.16,Accident Only
+Animal Friends,Cat,Moggie,15,Female,Yes,£9.96,£119.52,Accident and Illness
+Animal Friends,Cat,Domestic Shorthair,4,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Domestic Shorthair,4,Female,Yes,£4.22,£50.64,Accident and Illness
+Animal Friends,Cat,Domestic Longhair,4,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Domestic Longhair,4,Female,Yes,£4.22,£50.64,Accident and Illness
+Animal Friends,Cat,Sphynx,4,Female,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Sphynx,4,Female,Yes,£6.70,£80.40,Accident and Illness
+Animal Friends,Cat,Moggie,4,Male,No,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,4,Male,No,£4.22,£50.64,Accident and Illness
+Animal Friends,Cat,Moggie,4,Male,Yes,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,4,Male,Yes,£4.22,£50.64,Accident and Illness
+Animal Friends,Cat,Moggie,4,Female,No,£3.01,£36.12,Accident Only
+Animal Friends,Cat,Moggie,4,Female,No,£4.22,£50.64,Accident and Illness

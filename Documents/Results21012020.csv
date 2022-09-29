@@ -1,0 +1,334 @@
+Site,Pet,Breed,Age,Gender,Neutered,Purchase Price,Monthly,Yearly,Vet Excess,Annual Condition Limit
+Animal Friends,Dog,Cocker Spaniel,2,Male,Yes,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,2,Male,Yes,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,2,Male,Yes,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,3,Male,Yes,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,3,Male,Yes,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,3,Male,Yes,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,5,Male,Yes,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,5,Male,Yes,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,5,Male,Yes,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,6,Male,Yes,Free,£12.21,£146.52,£99,1000
+Animal Friends,Dog,Cocker Spaniel,6,Male,Yes,Free,£21.31,£255.72,£99,2000
+Animal Friends,Dog,Cocker Spaniel,6,Male,Yes,Free,£31.48,£377.76,£99,4000
+Animal Friends,Dog,Cocker Spaniel,7,Male,Yes,Free,£14.73,£176.76,£99,1000
+Animal Friends,Dog,Cocker Spaniel,7,Male,Yes,Free,£25.72,£308.64,£99,2000
+Animal Friends,Dog,Cocker Spaniel,7,Male,Yes,Free,£37.99,£455.88,£99,4000
+Animal Friends,Dog,Cocker Spaniel,8,Male,Yes,Free,£17.39,£208.68,£99,1000
+Animal Friends,Dog,Cocker Spaniel,8,Male,Yes,Free,£30.35,£364.20,£99,2000
+Animal Friends,Dog,Cocker Spaniel,8,Male,Yes,Free,£44.84,£538.08,£99,4000
+Animal Friends,Dog,Cocker Spaniel,9,Male,Yes,Free,£14.38,£172.56,£99,1000
+Animal Friends,Dog,Cocker Spaniel,9,Male,Yes,Free,£25.10,£301.20,£99,2000
+Animal Friends,Dog,Cocker Spaniel,9,Male,Yes,Free,£37.07,£444.84,£99,4000
+Animal Friends,Dog,Cocker Spaniel,10,Male,Yes,Free,£15.97,£191.64,£99,1000
+Animal Friends,Dog,Cocker Spaniel,10,Male,Yes,Free,£27.88,£334.56,£99,2000
+Animal Friends,Dog,Cocker Spaniel,10,Male,Yes,Free,£41.18,£494.16,£99,4000
+Animal Friends,Dog,Cocker Spaniel,11,Male,Yes,Free,£17.51,£210.12,£99,1000
+Animal Friends,Dog,Cocker Spaniel,11,Male,Yes,Free,£30.55,£366.60,£99,2000
+Animal Friends,Dog,Cocker Spaniel,11,Male,Yes,Free,£45.14,£541.68,£99,4000
+Animal Friends,Dog,Cocker Spaniel,12,Male,Yes,Free,£19.01,£228.12,£99,1000
+Animal Friends,Dog,Cocker Spaniel,12,Male,Yes,Free,£33.17,£398.04,£99,2000
+Animal Friends,Dog,Cocker Spaniel,12,Male,Yes,Free,£49.01,£588.12,£99,4000
+Animal Friends,Dog,Cocker Spaniel,13,Male,Yes,Free,£19.63,£235.56,£99,1000
+Animal Friends,Dog,Cocker Spaniel,13,Male,Yes,Free,£34.28,£411.36,£99,2000
+Animal Friends,Dog,Cocker Spaniel,13,Male,Yes,Free,£50.64,£607.68,£99,4000
+Animal Friends,Dog,Other Small Dog,4,Male,Yes,Free,£6.64,£79.68,£99,1000
+Animal Friends,Dog,Other Small Dog,4,Male,Yes,Free,£9.33,£111.96,£99,2000
+Animal Friends,Dog,Other Small Dog,4,Male,Yes,Free,£13.76,£165.12,£99,4000
+Animal Friends,Dog,Chihuahua,4,Male,Yes,Free,£6.64,£79.68,£99,1000
+Animal Friends,Dog,Chihuahua,4,Male,Yes,Free,£10.44,£125.28,£99,2000
+Animal Friends,Dog,Chihuahua,4,Male,Yes,Free,£15.42,£185.04,£99,4000
+Animal Friends,Dog,Jack Russell Terrier,4,Male,Yes,Free,£6.76,£81.12,£99,1000
+Animal Friends,Dog,Jack Russell Terrier,4,Male,Yes,Free,£11.80,£141.60,£99,2000
+Animal Friends,Dog,Jack Russell Terrier,4,Male,Yes,Free,£17.44,£209.28,£99,4000
+Animal Friends,Dog,Lhasa Apso,4,Male,Yes,Free,£6.76,£81.12,£99,1000
+Animal Friends,Dog,Lhasa Apso,4,Male,Yes,Free,£11.80,£141.60,£99,2000
+Animal Friends,Dog,Lhasa Apso,4,Male,Yes,Free,£17.44,£209.28,£99,4000
+Animal Friends,Dog,Shih Tzu,4,Male,Yes,Free,£7.12,£85.44,£99,1000
+Animal Friends,Dog,Shih Tzu,4,Male,Yes,Free,£12.44,£149.28,£99,2000
+Animal Friends,Dog,Shih Tzu,4,Male,Yes,Free,£18.38,£220.56,£99,4000
+Animal Friends,Dog,Patterdale Terrier,4,Male,Yes,Free,£7.13,£85.56,£99,1000
+Animal Friends,Dog,Patterdale Terrier,4,Male,Yes,Free,£12.44,£149.28,£99,2000
+Animal Friends,Dog,Patterdale Terrier,4,Male,Yes,Free,£18.39,£220.68,£99,4000
+Animal Friends,Dog,Yorkshire Terrier,4,Male,Yes,Free,£7.41,£88.92,£99,1000
+Animal Friends,Dog,Yorkshire Terrier,4,Male,Yes,Free,£12.94,£155.28,£99,2000
+Animal Friends,Dog,Yorkshire Terrier,4,Male,Yes,Free,£19.12,£229.44,£99,4000
+Animal Friends,Dog,Cockapoo,4,Male,Yes,Free,£7.41,£88.92,£99,1000
+Animal Friends,Dog,Cockapoo,4,Male,Yes,Free,£12.94,£155.28,£99,2000
+Animal Friends,Dog,Cockapoo,4,Male,Yes,Free,£19.12,£229.44,£99,4000
+Animal Friends,Dog,Poodle - Toy,4,Male,Yes,Free,£7.81,£93.72,£99,1000
+Animal Friends,Dog,Poodle - Toy,4,Male,Yes,Free,£13.62,£163.44,£99,2000
+Animal Friends,Dog,Poodle - Toy,4,Male,Yes,Free,£20.13,£241.56,£99,4000
+Animal Friends,Dog,Lagotto Romagnolo,4,Male,Yes,Free,£7.87,£94.44,£99,1000
+Animal Friends,Dog,Lagotto Romagnolo,4,Male,Yes,Free,£13.74,£164.88,£99,2000
+Animal Friends,Dog,Lagotto Romagnolo,4,Male,Yes,Free,£20.31,£243.72,£99,4000
+Animal Friends,Dog,Japanese Spitz,4,Male,Yes,Free,£7.87,£94.44,£99,1000
+Animal Friends,Dog,Japanese Spitz,4,Male,Yes,Free,£13.74,£164.88,£99,2000
+Animal Friends,Dog,Japanese Spitz,4,Male,Yes,Free,£20.31,£243.72,£99,4000
+Animal Friends,Dog,Pomeranian,4,Male,Yes,Free,£7.97,£95.64,£99,1000
+Animal Friends,Dog,Pomeranian,4,Male,Yes,Free,£13.91,£166.92,£99,2000
+Animal Friends,Dog,Pomeranian,4,Male,Yes,Free,£20.55,£246.60,£99,4000
+Animal Friends,Dog,Papillon,4,Male,Yes,Free,£7.97,£95.64,£99,1000
+Animal Friends,Dog,Papillon,4,Male,Yes,Free,£13.91,£166.92,£99,2000
+Animal Friends,Dog,Papillon,4,Male,Yes,Free,£20.55,£246.60,£99,4000
+Animal Friends,Dog,Border Terrier,4,Male,Yes,Free,£8.30,£99.60,£99,1000
+Animal Friends,Dog,Border Terrier,4,Male,Yes,Free,£14.49,£173.88,£99,2000
+Animal Friends,Dog,Border Terrier,4,Male,Yes,Free,£21.40,£256.80,£99,4000
+Animal Friends,Dog,Border Collie,4,Male,Yes,Free,£9.07,£108.84,£99,1000
+Animal Friends,Dog,Border Collie,4,Male,Yes,Free,£15.84,£190.08,£99,2000
+Animal Friends,Dog,Border Collie,4,Male,Yes,Free,£23.40,£280.80,£99,4000
+Animal Friends,Dog,Bedlington Terrier,4,Male,Yes,Free,£9.07,£108.84,£99,1000
+Animal Friends,Dog,Bedlington Terrier,4,Male,Yes,Free,£15.84,£190.08,£99,2000
+Animal Friends,Dog,Bedlington Terrier,4,Male,Yes,Free,£23.40,£280.80,£99,4000
+Animal Friends,Dog,Maltese,4,Male,Yes,Free,£9.11,£109.32,£99,1000
+Animal Friends,Dog,Maltese,4,Male,Yes,Free,£15.90,£190.80,£99,2000
+Animal Friends,Dog,Maltese,4,Male,Yes,Free,£23.49,£281.88,£99,4000
+Animal Friends,Dog,Havanese,4,Male,Yes,Free,£9.11,£109.32,£99,1000
+Animal Friends,Dog,Havanese,4,Male,Yes,Free,£15.90,£190.80,£99,2000
+Animal Friends,Dog,Havanese,4,Male,Yes,Free,£23.49,£281.88,£99,4000
+Animal Friends,Dog,West Highland White Terrier,4,Male,Yes,Free,£9.67,£116.04,£99,1000
+Animal Friends,Dog,West Highland White Terrier,4,Male,Yes,Free,£16.87,£202.44,£99,2000
+Animal Friends,Dog,West Highland White Terrier,4,Male,Yes,Free,£24.93,£299.16,£99,4000
+Animal Friends,Dog,Cairn Terrier,4,Male,Yes,Free,£9.67,£116.04,£99,1000
+Animal Friends,Dog,Cairn Terrier,4,Male,Yes,Free,£16.87,£202.44,£99,2000
+Animal Friends,Dog,Cairn Terrier,4,Male,Yes,Free,£24.93,£299.16,£99,4000
+Animal Friends,Dog,Staffordshire Bull Terrier,4,Male,Yes,Free,£10.11,£121.32,£99,1000
+Animal Friends,Dog,Staffordshire Bull Terrier,4,Male,Yes,Free,£17.64,£211.68,£99,2000
+Animal Friends,Dog,Staffordshire Bull Terrier,4,Male,Yes,Free,£26.06,£312.72,£99,4000
+Animal Friends,Dog,Standard Poodle,4,Male,Yes,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Standard Poodle,4,Male,Yes,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Standard Poodle,4,Male,Yes,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Dachshund,4,Male,Yes,Free,£10.55,£126.60,£99,1000
+Animal Friends,Dog,Dachshund,4,Male,Yes,Free,£18.40,£220.80,£99,2000
+Animal Friends,Dog,Dachshund,4,Male,Yes,Free,£27.19,£326.28,£99,4000
+Animal Friends,Dog,Bichon Frise,4,Male,Yes,Free,£10.96,£131.52,£99,1000
+Animal Friends,Dog,Bichon Frise,4,Male,Yes,Free,£19.13,£229.56,£99,2000
+Animal Friends,Dog,Bichon Frise,4,Male,Yes,Free,£28.26,£339.12,£99,4000
+Animal Friends,Dog,Cavalier King Charles Spaniel,4,Male,Yes,Free,£10.96,£131.52,£99,1000
+Animal Friends,Dog,Cavalier King Charles Spaniel,4,Male,Yes,Free,£19.13,£229.56,£99,2000
+Animal Friends,Dog,Cavalier King Charles Spaniel,4,Male,Yes,Free,£28.26,£339.12,£99,4000
+Animal Friends,Dog,Labrador Retriever,4,Male,Yes,Free,£11.16,£133.92,£99,1000
+Animal Friends,Dog,Labrador Retriever,4,Male,Yes,Free,£19.48,£233.76,£99,2000
+Animal Friends,Dog,Labrador Retriever,4,Male,Yes,Free,£28.77,£345.24,£99,4000
+Animal Friends,Dog,Schnauzer (Miniature),4,Male,Yes,Free,£11.16,£133.92,£99,1000
+Animal Friends,Dog,Schnauzer (Miniature),4,Male,Yes,Free,£19.48,£233.76,£99,2000
+Animal Friends,Dog,Schnauzer (Miniature),4,Male,Yes,Free,£28.77,£345.24,£99,4000
+Animal Friends,Dog,English Springer Spaniel,4,Male,Yes,Free,£11.78,£141.36,£99,1000
+Animal Friends,Dog,English Springer Spaniel,4,Male,Yes,Free,£20.56,£246.72,£99,2000
+Animal Friends,Dog,English Springer Spaniel,4,Male,Yes,Free,£30.37,£364.44,£99,4000
+Animal Friends,Dog,Beagle,4,Male,Yes,Free,£11.78,£141.36,£99,1000
+Animal Friends,Dog,Beagle,4,Male,Yes,Free,£20.56,£246.72,£99,2000
+Animal Friends,Dog,Beagle,4,Male,Yes,Free,£30.37,£364.44,£99,4000
+Animal Friends,Dog,Golden Retriever,4,Male,Yes,Free,£11.78,£141.36,£99,1000
+Animal Friends,Dog,Golden Retriever,4,Male,Yes,Free,£20.56,£246.72,£99,2000
+Animal Friends,Dog,Golden Retriever,4,Male,Yes,Free,£30.37,£364.44,£99,4000
+Animal Friends,Dog,Lurcher,4,Male,Yes,Free,£12.19,£146.28,£99,1000
+Animal Friends,Dog,Lurcher,4,Male,Yes,Free,£21.27,£255.24,£99,2000
+Animal Friends,Dog,Lurcher,4,Male,Yes,Free,£31.43,£377.16,£99,4000
+Animal Friends,Dog,Hungarian Vizsla,4,Male,Yes,Free,£12.61,£151.32,£99,1000
+Animal Friends,Dog,Hungarian Vizsla,4,Male,Yes,Free,£22.02,£264.24,£99,2000
+Animal Friends,Dog,Hungarian Vizsla,4,Male,Yes,Free,£32.52,£390.24,£99,4000
+Animal Friends,Dog,Shetland Sheepdog,4,Male,Yes,Free,£12.61,£151.32,£99,1000
+Animal Friends,Dog,Shetland Sheepdog,4,Male,Yes,Free,£22.02,£264.24,£99,2000
+Animal Friends,Dog,Shetland Sheepdog,4,Male,Yes,Free,£32.52,£390.24,£99,4000
+Animal Friends,Dog,Alaskan Malamute,4,Male,Yes,Free,£12.61,£151.32,£99,1000
+Animal Friends,Dog,Alaskan Malamute,4,Male,Yes,Free,£22.02,£264.24,£99,2000
+Animal Friends,Dog,Alaskan Malamute,4,Male,Yes,Free,£32.52,£390.24,£99,4000
+Animal Friends,Dog,Pug,4,Male,Yes,Free,£13.25,£159.00,£99,1000
+Animal Friends,Dog,Pug,4,Male,Yes,Free,£23.12,£277.44,£99,2000
+Animal Friends,Dog,Pug,4,Male,Yes,Free,£34.15,£409.80,£99,4000
+Animal Friends,Dog,Greyhound,4,Male,Yes,Free,£13.25,£159.00,£99,1000
+Animal Friends,Dog,Greyhound,4,Male,Yes,Free,£23.12,£277.44,£99,2000
+Animal Friends,Dog,Greyhound,4,Male,Yes,Free,£34.15,£409.80,£99,4000
+Animal Friends,Dog,German Shepherd Dog,4,Male,Yes,Free,£13.33,£159.96,£99,1000
+Animal Friends,Dog,German Shepherd Dog,4,Male,Yes,Free,£23.25,£279.00,£99,2000
+Animal Friends,Dog,German Shepherd Dog,4,Male,Yes,Free,£34.36,£412.32,£99,4000
+Animal Friends,Dog,Dalmatian,4,Male,Yes,Free,£13.33,£159.96,£99,1000
+Animal Friends,Dog,Dalmatian,4,Male,Yes,Free,£23.25,£279.00,£99,2000
+Animal Friends,Dog,Dalmatian,4,Male,Yes,Free,£34.36,£412.32,£99,4000
+Animal Friends,Dog,Boston Terrier,4,Male,Yes,Free,£14.55,£174.60,£99,1000
+Animal Friends,Dog,Boston Terrier,4,Male,Yes,Free,£25.39,£304.68,£99,2000
+Animal Friends,Dog,Boston Terrier,4,Male,Yes,Free,£37.51,£450.12,£99,4000
+Animal Friends,Dog,Irish Setter,4,Male,Yes,Free,£14.55,£174.60,£99,1000
+Animal Friends,Dog,Irish Setter,4,Male,Yes,Free,£25.39,£304.68,£99,2000
+Animal Friends,Dog,Irish Setter,4,Male,Yes,Free,£37.51,£450.12,£99,4000
+Animal Friends,Dog,German Short-Haired Pointer,4,Male,Yes,Free,£14.90,£178.80,£99,1000
+Animal Friends,Dog,German Short-Haired Pointer,4,Male,Yes,Free,£26.01,£312.12,£99,2000
+Animal Friends,Dog,German Short-Haired Pointer,4,Male,Yes,Free,£38.42,£461.04,£99,4000
+Animal Friends,Dog,Irish Wolfhound,4,Male,Yes,Free,£14.90,£178.80,£99,1000
+Animal Friends,Dog,Irish Wolfhound,4,Male,Yes,Free,£26.01,£312.12,£99,2000
+Animal Friends,Dog,Irish Wolfhound,4,Male,Yes,Free,£38.42,£461.04,£99,4000
+Animal Friends,Dog,Weimaraner,4,Male,Yes,Free,£15.95,£191.40,£99,1000
+Animal Friends,Dog,Weimaraner,4,Male,Yes,Free,£27.83,£333.96,£99,2000
+Animal Friends,Dog,Weimaraner,4,Male,Yes,Free,£41.13,£493.56,£99,4000
+Animal Friends,Dog,English Bull Terrier,4,Male,Yes,Free,£17.27,£207.24,£99,1000
+Animal Friends,Dog,English Bull Terrier,4,Male,Yes,Free,£30.14,£361.68,£99,2000
+Animal Friends,Dog,English Bull Terrier,4,Male,Yes,Free,£44.53,£534.36,£99,4000
+Animal Friends,Dog,Rhodesian Ridgeback,4,Male,Yes,Free,£19.91,£238.92,£99,1000
+Animal Friends,Dog,Rhodesian Ridgeback,4,Male,Yes,Free,£34.76,£417.12,£99,2000
+Animal Friends,Dog,Rhodesian Ridgeback,4,Male,Yes,Free,£51.35,£616.20,£99,4000
+Animal Friends,Dog,Newfoundland,4,Male,Yes,Free,£19.91,£238.92,£99,1000
+Animal Friends,Dog,Newfoundland,4,Male,Yes,Free,£34.76,£417.12,£99,2000
+Animal Friends,Dog,Newfoundland,4,Male,Yes,Free,£51.35,£616.20,£99,4000
+Animal Friends,Dog,Bulldog,4,Male,Yes,Free,£20.27,£243.24,£99,1000
+Animal Friends,Dog,Bulldog,4,Male,Yes,Free,£35.38,£424.56,£99,2000
+Animal Friends,Dog,Bulldog,4,Male,Yes,Free,£52.27,£627.24,£99,4000
+Animal Friends,Dog,Italian Spinone,4,Male,Yes,Free,£20.27,£243.24,£99,1000
+Animal Friends,Dog,Italian Spinone,4,Male,Yes,Free,£35.38,£424.56,£99,2000
+Animal Friends,Dog,Italian Spinone,4,Male,Yes,Free,£52.27,£627.24,£99,4000
+Animal Friends,Dog,French Bulldog,4,Male,Yes,Free,£20.74,£248.88,£99,1000
+Animal Friends,Dog,French Bulldog,4,Male,Yes,Free,£36.20,£434.40,£99,2000
+Animal Friends,Dog,French Bulldog,4,Male,Yes,Free,£53.47,£641.64,£99,4000
+Animal Friends,Dog,Boxer,4,Male,Yes,Free,£20.74,£248.88,£99,1000
+Animal Friends,Dog,Boxer,4,Male,Yes,Free,£36.20,£434.40,£99,2000
+Animal Friends,Dog,Boxer,4,Male,Yes,Free,£53.47,£641.64,£99,4000
+Animal Friends,Dog,Great Dane,4,Male,Yes,Free,£23.33,£279.96,£99,1000
+Animal Friends,Dog,Great Dane,4,Male,Yes,Free,£40.73,£488.76,£99,2000
+Animal Friends,Dog,Great Dane,4,Male,Yes,Free,£60.17,£722.04,£99,4000
+Animal Friends,Dog,St. Bernard,4,Male,Yes,Free,£23.33,£279.96,£99,1000
+Animal Friends,Dog,St. Bernard,4,Male,Yes,Free,£40.73,£488.76,£99,2000
+Animal Friends,Dog,St. Bernard,4,Male,Yes,Free,£60.17,£722.04,£99,4000
+Animal Friends,Dog,Dobermann,4,Male,Yes,Free,£24.05,£288.60,£99,1000
+Animal Friends,Dog,Dobermann,4,Male,Yes,Free,£41.98,£503.76,£99,2000
+Animal Friends,Dog,Dobermann,4,Male,Yes,Free,£62.01,£744.12,£99,4000
+Animal Friends,Dog,Bernese Mountain Dog,4,Male,Yes,Free,£24.05,£288.60,£99,1000
+Animal Friends,Dog,Bernese Mountain Dog,4,Male,Yes,Free,£41.98,£503.76,£99,2000
+Animal Friends,Dog,Bernese Mountain Dog,4,Male,Yes,Free,£62.01,£744.12,£99,4000
+Animal Friends,Dog,Rottweiler,4,Male,Yes,Free,£24.47,£293.64,£99,1000
+Animal Friends,Dog,Rottweiler,4,Male,Yes,Free,£42.72,£512.64,£99,2000
+Animal Friends,Dog,Rottweiler,4,Male,Yes,Free,£63.11,£757.32,£99,4000
+Animal Friends,Dog,Neapolitan Mastiff,4,Male,Yes,Free,£33.49,£401.88,£99,1000
+Animal Friends,Dog,Neapolitan Mastiff,4,Male,Yes,Free,£58.45,£701.40,£99,2000
+Animal Friends,Dog,Neapolitan Mastiff,4,Male,Yes,Free,£86.35,"£1,036.20",£99,4000
+Animal Friends,Dog,French Mastiff,4,Male,Yes,Free,£33.49,£401.88,£99,1000
+Animal Friends,Dog,French Mastiff,4,Male,Yes,Free,£58.45,£701.40,£99,2000
+Animal Friends,Dog,French Mastiff,4,Male,Yes,Free,£86.35,"£1,036.20",£99,4000
+Animal Friends,Dog,Cocker Spaniel,4,Male,No,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,4,Male,No,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,4,Male,No,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,4,Female,Yes,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,4,Female,Yes,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,4,Female,Yes,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,4,Female,No,Free,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,4,Female,No,Free,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,4,Female,No,Free,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,100,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,100,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,100,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,500,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,500,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,500,£26.22,£314.64,£99,4000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,1000,£10.17,£122.04,£99,1000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,1000,£17.75,£213.00,£99,2000
+Animal Friends,Dog,Cocker Spaniel,4,Male,Yes,1000,£26.22,£314.64,£99,4000
+Animal Friends,Cat,Moggie,4,Female,Yes,50,£5.61,£67.32,£99,1000
+Animal Friends,Cat,Moggie,4,Female,Yes,50,£8.51,£102.12,£99,2000
+Animal Friends,Cat,Moggie,4,Female,Yes,50,£12.96,£152.04,£99,4000
+Animal Friends,Cat,Moggie,4,Female,Yes,100,£5.61,£67.32,£99,1000
+Animal Friends,Cat,Moggie,4,Female,Yes,100,£8.51,£102.12,£99,2000
+Animal Friends,Cat,Moggie,4,Female,Yes,100,£12.96,£152.04,£99,4000
+Animal Friends,Cat,Moggie,4,Female,Yes,500,£5.61,£67.32,£99,1000
+Animal Friends,Cat,Moggie,4,Female,Yes,500,£8.51,£102.12,£99,2000
+Animal Friends,Cat,Moggie,4,Female,Yes,500,£12.96,£152.04,£99,4000
+Animal Friends,Cat,Moggie,2,Female,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Moggie,2,Female,Yes,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Moggie,2,Female,Yes,Free,£12.35,£148.20,£99,4000
+Animal Friends,Cat,Moggie,3,Female,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Moggie,3,Female,Yes,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Moggie,3,Female,Yes,Free,£12.35,£148.20,£99,4000
+Animal Friends,Cat,Moggie,4,Female,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Moggie,4,Female,Yes,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Moggie,4,Female,Yes,Free,£12.35,£148.20,£99,4000
+Animal Friends,Cat,Moggie,5,Female,Yes,Free,£5.61,£67.32,£99,1000
+Animal Friends,Cat,Moggie,5,Female,Yes,Free,£8.51,£102.12,£99,2000
+Animal Friends,Cat,Moggie,5,Female,Yes,Free,£12.67,£152.04,£99,4000
+Animal Friends,Cat,Moggie,6,Female,Yes,Free,£5.61,£67.32,£99,1000
+Animal Friends,Cat,Moggie,6,Female,Yes,Free,£8.51,£102.12,£99,2000
+Animal Friends,Cat,Moggie,6,Female,Yes,Free,£12.67,£152.04,£99,4000
+Animal Friends,Cat,Moggie,7,Female,Yes,Free,£5.61,£67.32,£99,1000
+Animal Friends,Cat,Moggie,7,Female,Yes,Free,£8.51,£102.12,£99,2000
+Animal Friends,Cat,Moggie,7,Female,Yes,Free,£12.67,£152.04,£99,4000
+Animal Friends,Cat,Moggie,8,Female,Yes,Free,£6.09,£73.08,£99,1000
+Animal Friends,Cat,Moggie,8,Female,Yes,Free,£9.15,£109.80,£99,2000
+Animal Friends,Cat,Moggie,8,Female,Yes,Free,£13.75,£165.00,£99,4000
+Animal Friends,Cat,Moggie,9,Female,Yes,Free,£6.54,£78.48,£99,1000
+Animal Friends,Cat,Moggie,9,Female,Yes,Free,£10.30,£123.60,£99,2000
+Animal Friends,Cat,Moggie,9,Female,Yes,Free,£15.32,£183.84,£99,4000
+Animal Friends,Cat,Moggie,10,Female,Yes,Free,£7.08,£84.96,£99,1000
+Animal Friends,Cat,Moggie,10,Female,Yes,Free,£11.82,£141.84,£99,2000
+Animal Friends,Cat,Moggie,10,Female,Yes,Free,£17.58,£210.96,£99,4000
+Animal Friends,Cat,Moggie,11,Female,Yes,Free,£6.62,£79.44,£99,1000
+Animal Friends,Cat,Moggie,11,Female,Yes,Free,£11.05,£132.60,£99,2000
+Animal Friends,Cat,Moggie,11,Female,Yes,Free,£16.44,£197.28,£99,4000
+Animal Friends,Cat,Moggie,12,Female,Yes,Free,£7.80,£93.60,£99,1000
+Animal Friends,Cat,Moggie,12,Female,Yes,Free,£13.01,£156.12,£99,2000
+Animal Friends,Cat,Moggie,12,Female,Yes,Free,£19.36,£232.32,£99,4000
+Animal Friends,Cat,Moggie,13,Female,Yes,Free,£9.16,£109.92,£99,1000
+Animal Friends,Cat,Moggie,13,Female,Yes,Free,£15.59,£187.08,£99,2000
+Animal Friends,Cat,Moggie,13,Female,Yes,Free,£22.75,£273.00,£99,4000
+Animal Friends,Cat,Moggie,14,Female,Yes,Free,£10.62,£127.44,£99,1000
+Animal Friends,Cat,Moggie,14,Female,Yes,Free,£17.72,£212.64,£99,2000
+Animal Friends,Cat,Moggie,14,Female,Yes,Free,£26.36,£316.32,£99,4000
+Animal Friends,Cat,Moggie,15,Female,Yes,Free,£12.01,£144.12,£99,1000
+Animal Friends,Cat,Moggie,15,Female,Yes,Free,£20.05,£240.60,£99,2000
+Animal Friends,Cat,Moggie,15,Female,Yes,Free,£29.84,£358.08,£99,4000
+Animal Friends,Cat,Ragdoll,4,Female,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Ragdoll,4,Female,Yes,Free,£8.30,£99.60,£99,2000
+Animal Friends,Cat,Ragdoll,4,Female,Yes,Free,£12.29,£147.48,£99,4000
+Animal Friends,Cat,British Longhair,4,Female,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,British Longhair,4,Female,Yes,Free,£8.30,£99.60,£99,2000
+Animal Friends,Cat,British Longhair,4,Female,Yes,Free,£12.29,£147.48,£99,4000
+Animal Friends,Cat,Domestic Shorthair,4,Female,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Domestic Shorthair,4,Female,Yes,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Domestic Shorthair,4,Female,Yes,Free,£12.35,£148.20,£99,4000
+Animal Friends,Cat,Mixed Breed Cat,4,Female,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Mixed Breed Cat,4,Female,Yes,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Mixed Breed Cat,4,Female,Yes,Free,£12.35,£148.20,£99,4000
+Animal Friends,Cat,British Shorthair,4,Female,Yes,Free,£5.53,£66.36,£99,1000
+Animal Friends,Cat,British Shorthair,4,Female,Yes,Free,£9.06,£108.72,£99,2000
+Animal Friends,Cat,British Shorthair,4,Female,Yes,Free,£13.42,£161.04,£99,4000
+Animal Friends,Cat,Chartreux,4,Female,Yes,Free,£5.53,£66.36,£99,1000
+Animal Friends,Cat,Chartreux,4,Female,Yes,Free,£9.06,£108.72,£99,2000
+Animal Friends,Cat,Chartreux,4,Female,Yes,Free,£13.42,£161.04,£99,4000
+Animal Friends,Cat,Norwegian Forest Cat,4,Female,Yes,Free,£6.13,£73.56,£99,1000
+Animal Friends,Cat,Norwegian Forest Cat,4,Female,Yes,Free,£10.01,£120.12,£99,2000
+Animal Friends,Cat,Norwegian Forest Cat,4,Female,Yes,Free,£14.83,£177.96,£99,4000
+Animal Friends,Cat,Birman,4,Female,Yes,Free,£6.13,£73.56,£99,1000
+Animal Friends,Cat,Birman,4,Female,Yes,Free,£10.01,£120.12,£99,2000
+Animal Friends,Cat,Birman,4,Female,Yes,Free,£14.83,£177.96,£99,4000
+Animal Friends,Cat,Persian,4,Female,Yes,Free,£7.32,£87.84,£99,1000
+Animal Friends,Cat,Persian,4,Female,Yes,Free,£11.98,£143.76,£99,2000
+Animal Friends,Cat,Persian,4,Female,Yes,Free,£17.74,£212.88,£99,4000
+Animal Friends,Cat,Bobtail,4,Female,Yes,Free,£7.32,£87.84,£99,1000
+Animal Friends,Cat,Bobtail,4,Female,Yes,Free,£11.98,£143.76,£99,2000
+Animal Friends,Cat,Bobtail,4,Female,Yes,Free,£17.74,£212.88,£99,4000
+Animal Friends,Cat,Bengal,4,Female,Yes,Free,£7.93,£95.16,£99,1000
+Animal Friends,Cat,Bengal,4,Female,Yes,Free,£12.98,£155.76,£99,2000
+Animal Friends,Cat,Bengal,4,Female,Yes,Free,£19.22,£230.64,£99,4000
+Animal Friends,Cat,Maine Coon,4,Female,Yes,Free,£7.93,£95.16,£99,1000
+Animal Friends,Cat,Maine Coon,4,Female,Yes,Free,£12.98,£155.76,£99,2000
+Animal Friends,Cat,Maine Coon,4,Female,Yes,Free,£19.22,£230.64,£99,4000
+Animal Friends,Cat,Russian Blue,4,Female,Yes,Free,£8.08,£96.96,£99,1000
+Animal Friends,Cat,Russian Blue,4,Female,Yes,Free,£13.20,£158.40,£99,2000
+Animal Friends,Cat,Russian Blue,4,Female,Yes,Free,£19.56,£234.72,£99,4000
+Animal Friends,Cat,Sphynx,4,Female,Yes,Free,£8.08,£96.96,£99,1000
+Animal Friends,Cat,Sphynx,4,Female,Yes,Free,£13.20,£158.40,£99,2000
+Animal Friends,Cat,Sphynx,4,Female,Yes,Free,£19.56,£234.72,£99,4000
+Animal Friends,Cat,Abyssinian,4,Female,Yes,Free,£8.75,£105.00,£99,1000
+Animal Friends,Cat,Abyssinian,4,Female,Yes,Free,£14.30,£171.60,£99,2000
+Animal Friends,Cat,Abyssinian,4,Female,Yes,Free,£21.18,£254.16,£99,4000
+Animal Friends,Cat,Devon Rex,4,Female,Yes,Free,£8.75,£105.00,£99,1000
+Animal Friends,Cat,Devon Rex,4,Female,Yes,Free,£14.30,£171.60,£99,2000
+Animal Friends,Cat,Devon Rex,4,Female,Yes,Free,£21.18,£254.16,£99,4000
+Animal Friends,Cat,Moggie,4,Male,No,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Moggie,4,Male,No,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Moggie,4,Male,No,Free,£12.35,£148.20,£99,4000
+Animal Friends,Cat,Moggie,4,Male,Yes,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Moggie,4,Male,Yes,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Moggie,4,Male,Yes,Free,£12.35,£148.20,£99,4000
+Animal Friends,Cat,Moggie,4,Female,No,Free,£5.26,£63.12,£99,1000
+Animal Friends,Cat,Moggie,4,Female,No,Free,£8.34,£100.08,£99,2000
+Animal Friends,Cat,Moggie,4,Female,No,Free,£12.35,£148.20,£99,4000

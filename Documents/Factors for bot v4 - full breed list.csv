@@ -1,0 +1,839 @@
+Species,Breed,Age,Gender,Neutered,Purchase Price,Product
+Dog,Cocker Spaniel,2,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,3,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,5,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,6,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,7,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,8,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,9,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,10,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,11,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,12,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,13,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Abyssinian Sand Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Affenpinscher,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Afghan Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,African Crested Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,African Hairless,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Ainu (Hokkaido),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Ainu-ken,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Airedale,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Airedale Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Aladseer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Alaskan Husky,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Alaskan Kleekai,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Alaskan Malamute,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Alpine Dachsbracke,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Bullmastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Cocker Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Eskimo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Indian,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Johnson Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Spitz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,American Water Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Andalusian Podenco,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Appenzeller Sennenhund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Ariegeois,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Aussiedoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Cattle Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Kelpie Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Labradoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Shepherd Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Silky Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Australian Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Austrian Pinscher,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Aylestone Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Azawakh,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Barbet,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basenji,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Artesien Norman,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Bleu De Gascogne,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Bleu De Gascogne (Medium),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Bleu De Gascogne (Small),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Fauve de Bretagne,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Griffon Vendeen,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Griffon Vendeen Grand,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Griffon Vendeen Petite,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Basset Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bavarian Mountain Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Beagle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Beaglier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bearded Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Beauceron,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bedlington Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Cattle Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Malinois,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Shepherd Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Shepherd Dog (Groenendael),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Shepherd Dog (Laekenois),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Shepherd Dog (Malinois),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Shepherd Dog (Tervueren),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Shepherd Malinois,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Shepherd Tervuren,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Belgian Tervuren,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bergamasco Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Berger Blanc Suisse,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bernese Mountain Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bichon Frise,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Black Russian,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Black and Tan Coonhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bloodhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Blue Belton,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Blue Heeler,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Boar Hounds,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Boerboel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bohemian Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bolognese,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Borador,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Border Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Border Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Borzoi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bosnian Shepherd Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Boston Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bouvier des Flandres,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Boxer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Boxweilier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Boykin Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bracco Italiano,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Briard,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Britanny,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,British Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Brittany,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Brittany Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Broken Haired Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Broken Haired Terriers,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Brussels Griffon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bug,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Buggle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bull Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bull Terrier (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bulldog (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bulldog (Toy),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Bullmastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Burgos Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cairn Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Can de Palleiro,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Canaan Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Canadian Eskimo Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cao da Serra de Aires,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cao de Castro Laboreiro,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Carea Leones,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Carpathian Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Catahoula Leopard Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Catalan Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cavachon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cavalier King Charles Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cavapoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Central Asian Shepherd Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cesky Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chesapeake Bay Retriever,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chi-A-Pap,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chi-Shi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chihuahua,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chihuahua (Long-Coated),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chihuahua (Smooth-coated),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chinese Crested (Powder Puff),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chinese Crested Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chinese Hairless,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chion,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chiweenie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chorkie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chow Chow,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Chug,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cirneco Dell',4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Etna,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Clumber Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cockapoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cockerpoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Collie (Rough),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Continental Landseer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Coonhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Corgi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Coton de Tulear,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Curly Coated Retriever,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cyprus Poodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Czesky Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachsbracke,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund (Long-Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund (Minature Long-Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund (Minature Short-Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund (Miniature Wire-Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund (Wire-Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshund Smooth haired,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dachshunddoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dalmatian,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dandie Dinmont Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Danish Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Danish-Swedish Farmdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Deerhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dobermann,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dogue de Bordeaux,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dorset Old Tyme Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Doxiedoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Doxihuahua,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Drentse Partridge Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dutch Herder/Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Dutch Kooiker,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Elkhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Bull Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Bull Terrier (Minature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Bullmastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Cocker Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Cocker Spaniel (Minature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Setter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Shepherd Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Springer Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Terrier (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Toy Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,English Toy Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Entlebucher Mountain Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Entlebucher Sennenhund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Epagneul Francais,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Estrela Mountain Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Eurasier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Eurasier (Large),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Farm Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Fell Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Felland Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Field Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Finish Keeshond,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Finnish Lapphund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Finnish Spitz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Flat-Coated Retriever,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Fox Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Fox Terrier (Smooth Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Fox Terrier (Wire Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,French Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,French Bullmastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,French Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,French Setter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,French Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Galgo Espanol,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Galician Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Gascoigne,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Gazelle Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Hunting Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Longhaired Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Mittel Spitz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Pinscher,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Shepherd Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Short-haired Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Spitz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Spitz (Klein),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Spitz (Mittel),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,German Wire-haired Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Giant Schnauzer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Glen of Imaal Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Golden Retriever,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Goldendoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Gonczy Polski,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Gordon Setter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Grand Basset Griffon Vendeen,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Grand Bleu De Gascoigne,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Great Dane,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Great Swiss Mountain Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Greenland Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Greyhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Griffon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Griffon (Rough Haired),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Griffon Brabancon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Griffon Bruxellois,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Griffon Fauve de Bretagne,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Groenendael,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Halden Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hamiltonstovare,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Harrier Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Harzer Fuchs,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Havana Brown,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Havanese,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Heeler,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Highland Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hill Bearded Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hovawart,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hungarian Kuvasz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hungarian Mudi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hungarian Puli,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hungarian Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hungarian Vizsla,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hungarian Wire Haired Vizsla,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Hungarian,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Huntaway,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Husky,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Ibizan Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Icelandic Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Inuit,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Red & White Setter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Setter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Water Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Wheaten Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Irish Wolfhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Italian Greyhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Italian Spinone,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jack Chi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jack Russell,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jack Russell Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jack Russell x West Highland,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jackahuahua,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jackapoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jamthund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Japanese Chin,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Japanese Shiba Inu,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Japanese Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Japanese Spitz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Jura Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Karakachan,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Keeshond,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Kerry Blue Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,King Charles Cavalier Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,King Charles Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Kokoni,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Komondor,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Kooikerhondje,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Korthals Griffon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Kromfohrlander,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Kuvasz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Labradoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Labrador,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Labrador Retriever,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lagotto Romagnolo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lakeland Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lancashire Heeler,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Landseer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lankeland Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lapp Reindeer Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lapponian Herder,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lapsk Vallhund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Large Munsterlander,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Latvian Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Leonberger,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lhasa Apso,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Libyan Desert Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lowchen,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lucas Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lurcher,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Lurcher (Medium),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Maasai Cattle Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Magyar Agar,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Mal-Shi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Malinois,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Maltese,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Maltipoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Manchester Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Maremma,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Maremma Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Mexican Hairless,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Mi-Ki,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Miniature American Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Miniature Labradoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Munsterlander,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Neapolitan Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Nevers Griffon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,New Zealand Huntaway,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Newfoundland,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Newfoundland Landseer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Non-Pedigree,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Norfold Labrador,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Norfolk Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Norsk Lundhehund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Norwegian Buhund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Norwegian Elkhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Norwegian Lundehund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Norwich Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Nova Scotia Duck Tolling Retriever,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Nuttall Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Old English Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Old English Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Old Tyme Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Other - Large,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Other - Other,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Other small dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Otterhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Papchi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Papihuahua,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Papillon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Parson Russell Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Patterdale Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Peagle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pekeapoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pekingese,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Petit Basset Griffon Vendeen,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pharaoh Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Picardy Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pinscher,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pinscher (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Plummer Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Podenco Canario,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Podenco Enano,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pointing W/Haired Griffon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Polish Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Polish Hunting Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Polish Lowland Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Polish Scenthound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Polish Tatra Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pomapoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pomchi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pomeranian,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pomsky,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Poochon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Poodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Poodle (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Poodle (Standard),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Poodle - Toy,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Podengo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Podengo (Large),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Podengo (Medium),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Podengo (Small),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Warren Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Portuguese Water Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Posavac Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Prague Ratter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pug,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pugapoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Puggle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Puli,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pumi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pyrenean Bullmastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pyrenean Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pyrenean Mountain Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Pyrenean Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Queensland Heeler,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Rat Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Ratonero Bodeguero Andaluz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Red Setter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Rhodesian Ridgeback,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Romanian Mioritic Shepherd Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Rottweiler,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Rough Haired Dutch Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Russian Black Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Russian Tsvetnaya Bolonka,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Russkiy Toy,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Saluki,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Samoyed,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Schapendoes,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Schipperke,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Schnauzer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Schnauzer (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Schnauzer Standard,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Schnoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Scottish Deerhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Scottish Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sealyham Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Segugio Italiano,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Serbian Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Setter,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sheba Inu,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sheepadoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Shetland Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Shi Chi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Shichon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Shih Tzu,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Shih-Poo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Shiloh Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Shorkie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Siberian Husky,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Silken Windhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Silky Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Skye Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sloughi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Slovakian Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Slovakian Rough Haired Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Small Munsterlander,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Smooth Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Smooth Fox Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Soft Coated Wheaten Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,South African Boerboel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,South African Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Spanish Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Spanish Water Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Spitz,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Spitz Mittel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sporting Lucas Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Springer Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sprocker Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,St Johns Waterdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,St. Bernard,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Stabyhoun,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Staffordshire Bull Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Standard Poodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sulki,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sussex Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Sussex Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Swedish Lapphund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Swedish Vallhund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Swiss Appenzelois,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Swiss Laufhund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Swiss Laufhund (Jura),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Tamaskan Dog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Teddy Bear Zuchon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Terridoodle,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Terrier Group,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Terripoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Tervueren,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Texas Heeler,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Tibetan Mastiff,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Tibetan Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Tibetan Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Tornjak,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Toy Keeshond,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Trailhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Transylvanian Hound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Victorian Bulldog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Volpino Italiano,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wachtelhund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Weimaraner,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Border Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Cardigan Corgi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Collie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Corgi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Pembroke Corgi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Springer Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Welsh Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,West Highland Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,West Highland White Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wetterhoun,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wheaten Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Whippet,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,White English Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,White Swiss Shepherd,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wire Fox Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wire Haired Dachshund,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wire Haired Fox Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wiredhaired Pointer,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Wolfhound,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Working Cocker Spaniel,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Working Sheepdog,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Yorkie-Chi,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Yorkiehuahua,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Yorkiepoo,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Yorkshire Terrier,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Yorkshire Terrier (Miniature),4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Yugoslavian Sarplaninac,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Zuchon,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Mixed Breed - Small up to 10kg,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Mixed Breed - Medium 10kg to 20kg,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Mixed Breed - Large more than 20kg,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,4,Male,No,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,4,Female,No,Free,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,4,Male,Yes,£100,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,4,Male,Yes,£500,Accident & Illness - Lifetime - £1000 or more
+Dog,Cocker Spaniel,4,Male,Yes,"£1,000",Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,4,Female,Yes,£50,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,4,Female,Yes,£100,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,4,Female,Yes,£500,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,2,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,3,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,5,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,6,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,7,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,8,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,9,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,10,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,11,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,12,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,13,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,14,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,15,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Abyssinian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,African Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Alpaca,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,American Blue,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,American Curl,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,American Domestic,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,American Maine Coon,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,American Ragdoll,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,American Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,American Wirehair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Angora,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Aphrodite Giant Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Arabian Mau,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian Bombay,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian Burmese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian Burmilla,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian Self,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian Semi-Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Asian Tiffanie,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Australian Mist,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Balinese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Bengal,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Bi Colours (Longhair),4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Bicolour,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Birman,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Black Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Blue Birman,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Blue Burmese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Blue Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Blue Point Siamese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Blue Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Blue-Cream Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Bobtail,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Bombay,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Bombay Self,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Brazillian Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Bicolour Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Black,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Black Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Blue,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Blue Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Blue-Cream Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Brown,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Cream Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Short Hair - Self,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Short Hair - Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Short Hair - Tipped,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Short Hair - Tortie,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Smoke Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Spotted Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British Tortoiseshell Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,British White Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Blue Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Blue Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Brown,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Brown Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Chocolate Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Cream,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Lilac Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Red,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmese Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Burmilla,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Calico Persian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,California Rex,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,California Spangled,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Cameo Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chantilly-Tiffany,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chartreux,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chinchilla,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chinchilla Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chinchilla Persian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chocolate And Lilac Longhairs,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chocolate Burmese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Chocolate Pointed Siamese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Colorpoint Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Colour Point (Longhair),4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Colourpoint,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Cornish Rex,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Cream Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Curilsk Bobtail,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Cymric,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Danish Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Devon Rex,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Domestic,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Domestic Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Domestic Semi Long Hair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Domestic Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Egyptian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Egyptian Mau,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,European,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,European Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Exotic,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Exotic Blue,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Exotic Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Exotic longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Feral,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Foreign Domestic,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Foreign Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Foreign Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Foreign Shorthairs,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Forest Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Gerguzha Burmese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Golden Persian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Golden Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Havana Brown,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Himalayan,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Japanese Bobtail,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Japanese Bobtail - Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Japanese Bobtail - Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Javanese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Korat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Kuril Bobtail,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Kurilian Bobtail,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,La Perm,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Lilac Burmese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Lilac Colourpoint,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Lilac Pointed Siamese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Lilac Tortie Burmese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Black,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Black And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Blue,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Blue Cream,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Blue Cream And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Blue Persian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Blue Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Blue Smoke,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Blue-Grey,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Chocolate,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Chocolate And Black,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Colourpoint,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Colourpoint Seal,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Cream,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Cream Cameo,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Cream Cameo X,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Ginger,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Ginger And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Grey,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Grey And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Lilac,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Red,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Red Colourpoint,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Red Point Cameo,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Red Tortie,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Red Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Shorthair Cameo,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Silver,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Silver Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Tabby & Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Tabby And Tortie,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Tabby And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Tabby Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Tortie,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair Tortie And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair White And Black,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Longhair White And Ginger,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Maine Coon,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Manx,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Mixed Breed Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Munchkin,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Nebelung,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Non Pedigree,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Non Pedigree Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Non Pedigree Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Nordic,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Norwegian Forest Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Ocicat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Oriental,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Oriental Caramel Ticked Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Oriental Chocolate Ticked Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Oriental Havan,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Oriental Shaded,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Oriental Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Bi-Colour,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Blue,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Chinchilla,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Cream,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Exotic,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Pewter,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Red Cameo,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Red Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Seal Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Short Hair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Smoke,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Tri-Colour,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Persian Van,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Peterbald,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Pewter Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Pixie Bob,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Ragamuffin,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Ragdoll,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Red Self Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Rex,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Russian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Russian Blue,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Savannah,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Scottish Fold,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Scottish Fold - Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Scottish Fold - Shorthair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Selkirk Rex,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Semi-Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Serengeti,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shaded Silver,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Short/Longhair White(Odd Eyes),4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Short/Longhair White Cross (Odd Eyes),4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Black,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Black And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Blue,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Blue-Cream,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair British Tipped,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Cream,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Dark Abyssinian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Ginger,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Ginger And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Grey,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Grey And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Manx,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Red Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Silver Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Tabby And Tortie,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Tabby And White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Tabby and Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Tortoiseshell,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair Tortoiseshell and White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Shorthair White,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese Cream Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese Foreign Black,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese Oriental,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese Red Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese Seal Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese Tabby Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siamese Tortoiseshell Point,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siberian,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siberian Chinchilla,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Siberian Forest Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Silver Spotted,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Silver Spotted Tabby,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Singapura,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Smoke Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Snow Leopard Bengal,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Snowshoe,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Sokoke Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Somali,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Sphynx,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Suffolk Chocolate Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Tabby Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Tiffany,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Tonkinese,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Tortoiseshell Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Tortoiseshell-And-White Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Toyger,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Turkish Angora,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Turkish Van,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Vervain,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,White Longhair,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Wiener Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Wirehair Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,York Chocolate Cat,4,Female,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,4,Male,No,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,4,Male,Yes,Free,Accident & Illness - Lifetime - £1000 or more
+Cat,Moggie,4,Female,No,Free,Accident & Illness - Lifetime - £1000 or more

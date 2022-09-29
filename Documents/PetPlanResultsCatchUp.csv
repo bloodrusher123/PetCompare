@@ -1,0 +1,13 @@
+Site,Pet,Breed,Age,Gender,Neutered,Purchase Price,Monthly,Yearly,Vet Excess,Annual Condition Limit
+Pet Plan,Dog,Braque d'Auvergne,4,Male,Yes,Free,£49.80,£597.60 ,£110,4000
+Pet Plan,Dog,Braque d'Auvergne,4,Male,Yes,Free,£64.63,£775.56 ,£110,7000
+Pet Plan,Dog,Braque d'Auvergne,4,Male,Yes,Free,£80.74,£968.88 ,£110,4000
+Pet Plan,Dog,Spanish Mastiff,4,Male,Yes,Free,£128.08,£1536.96 ,£110,4000
+Pet Plan,Dog,Spanish Mastiff,4,Male,Yes,Free,£166.24,£1994.88 ,£110,7000
+Pet Plan,Dog,Spanish Mastiff,4,Male,Yes,Free,£222.14,£2665.68 ,£110,4000
+Pet Plan,Dog,Canario Podengo,4,Male,Yes,Free,£36.67,£440.04 ,£110,4000
+Pet Plan,Dog,Canario Podengo,4,Male,Yes,Free,£47.58,£570.96 ,£110,7000
+Pet Plan,Dog,Canario Podengo,4,Male,Yes,Free,£62.12,£745.44 ,£110,4000
+Pet Plan,Cat,Domestic Medium Hair,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,4000
+Pet Plan,Cat,Domestic Medium Hair,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,7000
+Pet Plan,Cat,Domestic Medium Hair,4,Male,Yes,Free,No Lifetime Cover,No Lifetime Cover,No Lifetime Cover,12000
